@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center"> Hi 👋, I'm Muhammad Shahnawaz Khan </h1>
 
-<!--
-**ShahnawazKakarh/ShahnawazKakarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Currently Located in Lahore, Pakistan </h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahnawazKakarh&label=Profile%20views&color=0e75b6&style=flat" alt="ShahnawazKakarh" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Stacks on which currently I am working on **Python, Java and JavaScript**
+
+- 🌱 Stacks which are in queue to learn i.e., **Golang, FastAPI, AWS**
+
+- 💬 Ask me about **Selenium WebDriver, Cypress, Python, PyTest**
+
+- 📫 How to reach me **[about.me/shahnawazkhankakar](https://about.me/shahnawazkhankakar)**
