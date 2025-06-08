@@ -31,3 +31,28 @@
 <a href="https://www.selenium.dev/" rel="nofollow"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="36" height="36" alt="Selenium" style="max-width: 100%;"></a>
 <a href="https://webdriver.io/" rel="nofollow"><img src="https://camo.githubusercontent.com/096858cfe7db1612bad66bb0c9138b8593a762a5da05d7d5e0f67e42758cf2a4/68747470733a2f2f7765626472697665722e696f2f696d672f6c6f676f2d7765626472697665722d696f2e706e67" width="36" height="36" alt="WebdriverIO" data-canonical-src="https://webdriver.io/img/logo-webdriver-io.png" style="max-width: 100%;"></a>
 </p>
+
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shahnawazkakarh&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazkakarh&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skakarh/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/meskakarh)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahnawaz.jrw@gmail.com)
+
+---
+
+### ⚡ Fun Fact
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
