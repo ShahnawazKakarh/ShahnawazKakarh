@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs once every day at midnight
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 0 * * *' # Runs once every day at midnight UTC
+  workflow_dispatch: # Allows you to run it manually from Actions tab
 
 jobs:
   update-readme-with-blog:
@@ -13,3 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@skakarh"
+          max_post_count: "5"
