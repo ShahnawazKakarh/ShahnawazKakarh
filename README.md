@@ -139,7 +139,4 @@ Here are some of my recent blogs where I share my experiences, tutorials, and le
 - [Python 3.13 Introduces GIL-Free Mode — A Game Changer for Multithreading](https://skakarh.medium.com/python-3-13-introduces-gil-free-mode-a-game-changer-for-multithreading-ffe06babd3ea?source=rss-13a2ac43dc86------2)
 - [From Basics to Badge: My HackerRank Python Journey](https://skakarh.medium.com/from-basics-to-badge-my-hackerrank-python-journey-8a2414b7c24f?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
-
-
-- [From Basics to Badge: My HackerRank Python Journey](https://medium.com/@skakarh/from-basics-to-badge-my-hackerrank-python-journey-8a2414b7c24f)
 - *(More articles coming soon... Stay tuned!)*
