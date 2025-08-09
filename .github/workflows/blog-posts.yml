@@ -26,4 +26,4 @@ jobs:
           git commit -m "Update with latest blog posts"
           git push https://x-access-token:${{ secrets.BLOG_POSTS_SECRET }}@github.com/ShahnawazKakarh/ShahnawazKakarh.git HEAD:main
         env:
-          GH_PAT: ${{ secrets.BLOG_POSTS_SECRET }}
+          BLOG_POSTS_SECRET: ${{ secrets.BLOG_POSTS_SECRET }}
