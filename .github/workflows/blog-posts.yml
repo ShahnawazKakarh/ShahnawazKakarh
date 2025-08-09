@@ -18,3 +18,12 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@skakarh"
           max_post_count: "5"
+      - name: Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update with latest blog posts"
+          git push https://x-access-token:${{ secrets.BLOG_POSTS_SECRET }}@github.com/ShahnawazKakarh/ShahnawazKakarh.git HEAD:main
+        env:
+          GH_PAT: ${{ secrets.BLOG_POSTS_SECRET }}
