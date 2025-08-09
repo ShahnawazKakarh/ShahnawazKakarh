@@ -2,11 +2,11 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs once every day at midnight UTC
-  workflow_dispatch: # Allows you to run it manually from Actions tab
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
 
 permissions:
-  contents: write # 👈 This allows the bot to push changes
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -14,19 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          persist-credentials: false # 👈 Important for PAT usage
-
-      - name: Set up Git auth
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@skakarh"
           max_post_count: "5"
-          commit_message: "Updated with the latest blog posts"
-          committer_username: "github-actions[bot]"
-          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
-          github_token: ${{ secrets.GITHUB_TOKEN }} # 👈 Auth to push
