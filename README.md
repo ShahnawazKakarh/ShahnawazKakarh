@@ -132,8 +132,9 @@
 ## ✍ Recent Blog Posts
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
-
 <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 - [From Basics to Badge: My HackerRank Python Journey](https://medium.com/@skakarh/from-basics-to-badge-my-hackerrank-python-journey-8a2414b7c24f)
 - *(More articles coming soon... Stay tuned!)*
-<!-- BLOG-POST-LIST:END -->
