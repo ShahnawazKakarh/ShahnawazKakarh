@@ -133,10 +133,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [The Data Science Pipeline — How We Transform Data into Decisions](https://skakarh.medium.com/the-data-science-pipeline-how-we-transform-data-into-decisions-96f93ebbb3c2?source=rss-13a2ac43dc86------2)
 - [The 22 Immutable Laws of Marketing — Summarised for the Modern Marketer](https://skakarh.medium.com/the-22-immutable-laws-of-marketing-summarised-for-the-modern-marketer-5879bdebccfa?source=rss-13a2ac43dc86------2)
 - [Supercharging Your Workflow with n8n Automation on a VPS — Slack Integration Example](https://skakarh.medium.com/supercharging-your-workflow-with-n8n-automation-on-a-vps-slack-integration-example-581903013fb5?source=rss-13a2ac43dc86------2)
 - [Mastering Software Testing: 14 Essential Techniques Every QA Should Know](https://skakarh.medium.com/mastering-software-testing-14-essential-techniques-every-qa-should-know-d35c1e084d43?source=rss-13a2ac43dc86------2)
 - [The $215 “Saving” That Cost a Company Thousands](https://skakarh.medium.com/the-215-saving-that-cost-a-company-thousands-e1f2750cf91d?source=rss-13a2ac43dc86------2)
-- [The Myth That Automation Is the Only Path for QA Testers](https://skakarh.medium.com/the-myth-that-automation-is-the-only-path-for-qa-testers-7f728e4d1944?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
