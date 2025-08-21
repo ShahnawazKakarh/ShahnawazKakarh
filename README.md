@@ -26,7 +26,7 @@
 
 🔭 **Currently working with:** Python, JavaScript  
 
-🌱 **Learning & implementing next:** Golang, FastAPI, React  
+🌱 **Learning & implementing now-a-days:** Statistics, Machine Learning, Artificial Intelligence, Deep Learning, SQL Mastery, which will make me "Data Scientist" in the end. 
 
 🧑‍💻 **Passionate about:** Designing and implementing robust Test Automation Frameworks  
 
@@ -46,7 +46,6 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white" /> &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" /> &emsp;
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" /> &emsp;
-  <img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white" />
 </p>
 
 <hr>
@@ -65,8 +64,6 @@
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" /> &emsp;
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" /> &emsp;
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vue.js&logoColor=white" /> &emsp;
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white" /> &emsp;
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" />
 </p>
 
