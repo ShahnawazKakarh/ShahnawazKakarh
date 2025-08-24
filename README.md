@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Understanding set Operations in Python: difference&lpar;&rpar;, difference_update&lpar;&rpar;, intersection&lpar;&rpar; and…](https://skakarh.medium.com/understanding-set-operations-in-python-difference-difference-update-intersection-and-7ff2f3e1ef24?source=rss-13a2ac43dc86------2)
 - [How to Install n8n on Your Mac &lpar;Step-by-Step Guide&rpar;](https://skakarh.medium.com/how-to-install-n8n-on-your-mac-step-by-step-guide-87a3083f91ab?source=rss-13a2ac43dc86------2)
 - [The Data Science Pipeline — How We Transform Data into Decisions](https://skakarh.medium.com/the-data-science-pipeline-how-we-transform-data-into-decisions-96f93ebbb3c2?source=rss-13a2ac43dc86------2)
 - [The 22 Immutable Laws of Marketing — Summarised for the Modern Marketer](https://skakarh.medium.com/the-22-immutable-laws-of-marketing-summarised-for-the-modern-marketer-5879bdebccfa?source=rss-13a2ac43dc86------2)
 - [Supercharging Your Workflow with n8n Automation on a VPS — Slack Integration Example](https://skakarh.medium.com/supercharging-your-workflow-with-n8n-automation-on-a-vps-slack-integration-example-581903013fb5?source=rss-13a2ac43dc86------2)
-- [Mastering Software Testing: 14 Essential Techniques Every QA Should Know](https://skakarh.medium.com/mastering-software-testing-14-essential-techniques-every-qa-should-know-d35c1e084d43?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
