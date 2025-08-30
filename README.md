@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Vibium AI — The Future of Test Automation](https://skakarh.medium.com/vibium-ai-the-future-of-test-automation-65cdb4b90360?source=rss-13a2ac43dc86------2)
 - [⚡ The Next Big Career Shift Is Here, And It’s All About Energy](https://skakarh.medium.com/the-next-big-career-shift-is-here-and-its-all-about-energy-9a9935f5ed4d?source=rss-13a2ac43dc86------2)
 - [Top AI Tools Every QA Engineer Should Know](https://skakarh.medium.com/top-ai-tools-every-qa-engineer-should-know-3d8e18335b46?source=rss-13a2ac43dc86------2)
 - [Understanding set Operations in Python: difference&lpar;&rpar;, difference_update&lpar;&rpar;, intersection&lpar;&rpar; and…](https://skakarh.medium.com/understanding-set-operations-in-python-difference-difference-update-intersection-and-7ff2f3e1ef24?source=rss-13a2ac43dc86------2)
 - [How to Install n8n on Your Mac &lpar;Step-by-Step Guide&rpar;](https://skakarh.medium.com/how-to-install-n8n-on-your-mac-step-by-step-guide-87a3083f91ab?source=rss-13a2ac43dc86------2)
-- [The Data Science Pipeline — How We Transform Data into Decisions](https://skakarh.medium.com/the-data-science-pipeline-how-we-transform-data-into-decisions-96f93ebbb3c2?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
