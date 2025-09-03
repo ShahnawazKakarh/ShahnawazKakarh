@@ -8,7 +8,7 @@
 	<a href="https://github.com/ShahnawazKakarh">
 		<img src="https://komarev.com/ghpvc/?username=ShahnawazKakarh&label=Profile%20views&color=0e75b6&style=flat" alt="ShahnawazKakarh" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/ShahnawazKakarh">
 		<img src="https://img.shields.io/github/followers/ShahnawazKakarh?label=Followers" alt="ShahnawazKakarh" />
 	</a>
 </p>
