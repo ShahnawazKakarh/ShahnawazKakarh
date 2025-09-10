@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [How LLMs + RAG Are Transforming QA Workflows in 2025](https://skakarh.medium.com/how-llms-rag-are-transforming-qa-workflows-in-2025-daee815c3d3b?source=rss-13a2ac43dc86------2)
 - [How to Get Started with Kaggle Datasets](https://skakarh.medium.com/how-to-get-started-with-kaggle-datasets-452cb8bdc890?source=rss-13a2ac43dc86------2)
 - [Unlocking the Power of Kaggle Datasets for AI &amp; ML](https://skakarh.medium.com/unlocking-the-power-of-kaggle-datasets-for-ai-ml-285e42ca2662?source=rss-13a2ac43dc86------2)
 - [The Future of QA: Why Testers Who Embrace AI Will Lead the Next Era of Software Quality](https://skakarh.medium.com/the-future-of-qa-why-testers-who-embrace-ai-will-lead-the-next-era-of-software-quality-0353480506da?source=rss-13a2ac43dc86------2)
 - [Vibium AI — The Future of Test Automation](https://skakarh.medium.com/vibium-ai-the-future-of-test-automation-65cdb4b90360?source=rss-13a2ac43dc86------2)
-- [⚡ The Next Big Career Shift Is Here, And It’s All About Energy](https://skakarh.medium.com/the-next-big-career-shift-is-here-and-its-all-about-energy-9a9935f5ed4d?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
