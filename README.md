@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Mastering NumPy: The Ultimate Guide for Data Science &amp; Machine Learning](https://skakarh.medium.com/mastering-numpy-the-ultimate-guide-for-data-science-machine-learning-4a54ade9ad8e?source=rss-13a2ac43dc86------2)
+- [A $100,000 H-1B Fee: A Turning Point in Global Tech Hiring](https://skakarh.medium.com/a-100-000-h-1b-fee-a-turning-point-in-global-tech-hiring-08c0e3133ba8?source=rss-13a2ac43dc86------2)
 - [Beyond Bug-Free: The Future of Software Quality in the Age of AI in 2025 onwards](https://skakarh.medium.com/beyond-bug-free-the-future-of-software-quality-in-the-age-of-ai-in-2025-onwards-afd0cdea97f4?source=rss-13a2ac43dc86------2)
 - [AI-Powered QA Workflow: From Idea to MVP](https://skakarh.medium.com/ai-powered-qa-workflow-from-idea-to-mvp-25b9bc10ff93?source=rss-13a2ac43dc86------2)
 - [Exploratory Testing: The Secret Weapon of Skilled QA Testers in 2025 using AI](https://skakarh.medium.com/exploratory-testing-the-secret-weapon-of-skilled-qa-testers-in-2025-using-ai-61c48c2a9db2?source=rss-13a2ac43dc86------2)
-- [How LLMs + RAG Are Transforming QA Workflows in 2025](https://skakarh.medium.com/how-llms-rag-are-transforming-qa-workflows-in-2025-daee815c3d3b?source=rss-13a2ac43dc86------2)
-- [How to Get Started with Kaggle Datasets](https://skakarh.medium.com/how-to-get-started-with-kaggle-datasets-452cb8bdc890?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
