@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [The Evolving Role of a QA Engineer: From Bug Finder to Quality Advocate](https://skakarh.medium.com/the-evolving-role-of-a-qa-engineer-from-bug-finder-to-quality-advocate-2c39b89b5e12?source=rss-13a2ac43dc86------2)
 - [80% of SDET / Automation Testers Get Rejected in the First 10 Minutes, Here’s Why](https://skakarh.medium.com/80-of-sdet-automation-testers-get-rejected-in-the-first-10-minutes-heres-why-5ebb0e166682?source=rss-13a2ac43dc86------2)
 - [AI in the Software Testing Life Cycle &lpar;STLC&rpar;](https://skakarh.medium.com/ai-in-the-software-testing-life-cycle-stlc-61e1ddb57a6b?source=rss-13a2ac43dc86------2)
 - [Are We Solving the Right Problems in Test Automation?](https://skakarh.medium.com/are-we-solving-the-right-problems-in-test-automation-01494efdba7d?source=rss-13a2ac43dc86------2)
 - [⚡ AI-Powered E2E Testing with Playwright MCP &amp; GitHub MCP](https://skakarh.medium.com/ai-powered-e2e-testing-with-playwright-mcp-github-mcp-c5276c6cfc0f?source=rss-13a2ac43dc86------2)
-- [Evolving QA with AI: The Rise of Self-Healing Test Automation](https://skakarh.medium.com/evolving-qa-with-ai-the-rise-of-self-healing-test-automation-446c18b6b501?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
