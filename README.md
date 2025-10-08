@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Beyond Automation: How Retrieval-Augmented &lpar;RAG&rpar; — QA is Redefining Software Quality](https://skakarh.medium.com/beyond-automation-how-retrieval-augmented-rag-qa-is-redefining-software-quality-e354ff327235?source=rss-13a2ac43dc86------2)
 - [⚙️ RAG Supercharged: The New Era of AI-Powered QA Workflows](https://skakarh.medium.com/%EF%B8%8F-rag-supercharged-the-new-era-of-ai-powered-qa-workflows-1f230782fa4c?source=rss-13a2ac43dc86------2)
 - [The Future of SQA: When LLMs Meet RAG — Testing Just Got Smarter](https://skakarh.medium.com/the-future-of-sqa-when-llms-meet-rag-testing-just-got-smarter-d4e8ebc839f9?source=rss-13a2ac43dc86------2)
 - [The Evolving Role of a QA Engineer: From Bug Finder to Quality Advocate](https://skakarh.medium.com/the-evolving-role-of-a-qa-engineer-from-bug-finder-to-quality-advocate-2c39b89b5e12?source=rss-13a2ac43dc86------2)
 - [80% of SDET / Automation Testers Get Rejected in the First 10 Minutes, Here’s Why](https://skakarh.medium.com/80-of-sdet-automation-testers-get-rejected-in-the-first-10-minutes-heres-why-5ebb0e166682?source=rss-13a2ac43dc86------2)
-- [AI in the Software Testing Life Cycle &lpar;STLC&rpar;](https://skakarh.medium.com/ai-in-the-software-testing-life-cycle-stlc-61e1ddb57a6b?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
