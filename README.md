@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [The One Mistake Every QA Engineer Makes When Switching to SDET Roles](https://skakarh.medium.com/the-one-mistake-every-qa-engineer-makes-when-switching-to-sdet-roles-8f5d26b8fd26?source=rss-13a2ac43dc86------2)
+- [You’re Writing Tests Wrong: The Hidden Cost of Flaky Automation](https://skakarh.medium.com/youre-writing-tests-wrong-the-hidden-cost-of-flaky-automation-ad4d30f5387c?source=rss-13a2ac43dc86------2)
 - [⚙️ “Your Selenium Skills Won’t Save You in 2025 — Here’s What Will”](https://skakarh.medium.com/%EF%B8%8F-your-selenium-skills-wont-save-you-in-2025-here-s-what-will-af7983b35a76?source=rss-13a2ac43dc86------2)
 - [The Software Testing Life Cycle &lpar;STLC&rpar; — Behind the Scenes](https://skakarh.medium.com/the-software-testing-life-cycle-stlc-behind-the-scenes-e5af45a9a4b3?source=rss-13a2ac43dc86------2)
 - [The QA Trinity: Understanding Error, Defect &amp; Bug](https://skakarh.medium.com/the-qa-trinity-understanding-error-defect-bug-b562fd994f1c?source=rss-13a2ac43dc86------2)
-- [The QA Series — “From Bug Finder to Quality Architect”](https://skakarh.medium.com/the-qa-series-from-bug-finder-to-quality-architect-383692d7ef1e?source=rss-13a2ac43dc86------2)
-- [Beyond Automation: How Retrieval-Augmented &lpar;RAG&rpar; — QA is Redefining Software Quality](https://skakarh.medium.com/beyond-automation-how-retrieval-augmented-rag-qa-is-redefining-software-quality-e354ff327235?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
