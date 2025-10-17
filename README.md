@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [From Manual to Agentic: The Next Evolution of QA Automation](https://skakarh.medium.com/from-manual-to-agentic-the-next-evolution-of-qa-automation-1b5fa0ca21aa?source=rss-13a2ac43dc86------2)
 - [AI Won’t Replace Testers — But Testers Who Use AI Will Replace Those Who Don’t](https://skakarh.medium.com/ai-wont-replace-testers-but-testers-who-use-ai-will-replace-those-who-don-t-a967b1b622a8?source=rss-13a2ac43dc86------2)
 - [What Top 1% QA Engineers Know About Test Architecture That Others Don’t](https://skakarh.medium.com/what-top-1-qa-engineers-know-about-test-architecture-that-others-dont-c7b6cca0057b?source=rss-13a2ac43dc86------2)
 - [The One Mistake Every QA Engineer Makes When Switching to SDET Roles](https://skakarh.medium.com/the-one-mistake-every-qa-engineer-makes-when-switching-to-sdet-roles-8f5d26b8fd26?source=rss-13a2ac43dc86------2)
 - [You’re Writing Tests Wrong: The Hidden Cost of Flaky Automation](https://skakarh.medium.com/youre-writing-tests-wrong-the-hidden-cost-of-flaky-automation-ad4d30f5387c?source=rss-13a2ac43dc86------2)
-- [⚙️ “Your Selenium Skills Won’t Save You in 2025 — Here’s What Will”](https://skakarh.medium.com/%EF%B8%8F-your-selenium-skills-wont-save-you-in-2025-here-s-what-will-af7983b35a76?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
