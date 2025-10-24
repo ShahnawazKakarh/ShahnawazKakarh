@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Stop Writing Cypress Tests Like Selenium — Think Like a Developer, Not a Tester](https://skakarh.medium.com/stop-writing-cypress-tests-like-selenium-think-like-a-developer-not-a-tester-62b949d22da3?source=rss-13a2ac43dc86------2)
 - [Why Your Cypress Tests Pass Locally But Fail in CI — and How to Fix It](https://skakarh.medium.com/why-your-cypress-tests-pass-locally-but-fail-in-ci-and-how-to-fix-it-b53b42f4eea4?source=rss-13a2ac43dc86------2)
 - [“90% of Cypress Testers Are Using cy.wait&lpar;&rpar; Wrong — Here’s the Right Way”](https://skakarh.medium.com/90-of-cypress-testers-are-using-cy-wait-wrong-heres-the-right-way-c71b4bfe9775?source=rss-13a2ac43dc86------2)
 - [The Future QA Stack: What Tools, Skills, and Mindset Will Matter in 2026](https://skakarh.medium.com/the-future-qa-stack-what-tools-skills-and-mindset-will-matter-in-2026-a348b25c6602?source=rss-13a2ac43dc86------2)
 - [The QA Engineer’s Playbook for Breaking Into Product-Based Companies](https://skakarh.medium.com/the-qa-engineers-playbook-for-breaking-into-product-based-companies-4f3238450eaa?source=rss-13a2ac43dc86------2)
-- [Your Test Cases Are Stuck in 2010 — Here’s How AI Writes Them Better](https://skakarh.medium.com/your-test-cases-are-stuck-in-2010-heres-how-ai-writes-them-better-c30289e68d6a?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
