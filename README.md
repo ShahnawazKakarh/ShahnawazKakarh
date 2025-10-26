@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [How to Supercharge Cypress with AI: From Self-Healing Selectors to Smart Assertions](https://skakarh.medium.com/how-to-supercharge-cypress-with-ai-from-self-healing-selectors-to-smart-assertions-71ee297727bc?source=rss-13a2ac43dc86------2)
 - [Your Cypress Framework Is Missing This One Thing — The Power of Custom Commands](https://skakarh.medium.com/your-cypress-framework-is-missing-this-one-thing-the-power-of-custom-commands-0ea575b1b177?source=rss-13a2ac43dc86------2)
 - [⚡️ The Secret Sauce Behind Blazing-Fast Cypress Suites: Parallelization Done Right](https://skakarh.medium.com/%EF%B8%8F-the-secret-sauce-behind-blazing-fast-cypress-suites-parallelization-done-right-7f63cc8840f9?source=rss-13a2ac43dc86------2)
 - [Stop Writing Cypress Tests Like Selenium — Think Like a Developer, Not a Tester](https://skakarh.medium.com/stop-writing-cypress-tests-like-selenium-think-like-a-developer-not-a-tester-62b949d22da3?source=rss-13a2ac43dc86------2)
 - [Why Your Cypress Tests Pass Locally But Fail in CI — and How to Fix It](https://skakarh.medium.com/why-your-cypress-tests-pass-locally-but-fail-in-ci-and-how-to-fix-it-b53b42f4eea4?source=rss-13a2ac43dc86------2)
-- [“90% of Cypress Testers Are Using cy.wait&lpar;&rpar; Wrong — Here’s the Right Way”](https://skakarh.medium.com/90-of-cypress-testers-are-using-cy-wait-wrong-heres-the-right-way-c71b4bfe9775?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
