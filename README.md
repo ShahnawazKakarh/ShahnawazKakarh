@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [“From Zero to Cypress Framework: How to Build a Test Automation Setup That Scales”](https://skakarh.medium.com/from-zero-to-cypress-framework-how-to-build-a-test-automation-setup-that-scales-821c190613b2?source=rss-13a2ac43dc86------2)
 - [“Your Cypress Folder Structure Is Holding You Back — Here’s a Scalable Setup”](https://skakarh.medium.com/your-cypress-folder-structure-is-holding-you-back-heres-a-scalable-setup-42ec8576f6af?source=rss-13a2ac43dc86------2)
 - [Integrating Cypress with GitHub Actions Like a Pro](https://skakarh.medium.com/integrating-cypress-with-github-actions-like-a-pro-e202a45965f3?source=rss-13a2ac43dc86------2)
 - [“Cypress vs Playwright in 2025: The Real Winner for Scalable Test Automation”](https://skakarh.medium.com/cypress-vs-playwright-in-2025-the-real-winner-for-scalable-test-automation-aaa28aecd0ec?source=rss-13a2ac43dc86------2)
 - [How to Supercharge Cypress with AI: From Self-Healing Selectors to Smart Assertions](https://skakarh.medium.com/how-to-supercharge-cypress-with-ai-from-self-healing-selectors-to-smart-assertions-71ee297727bc?source=rss-13a2ac43dc86------2)
-- [Your Cypress Framework Is Missing This One Thing — The Power of Custom Commands](https://skakarh.medium.com/your-cypress-framework-is-missing-this-one-thing-the-power-of-custom-commands-0ea575b1b177?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
