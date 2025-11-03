@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Cypress Component Testing Is the Future — Why You Should Learn It Now](https://skakarh.medium.com/cypress-component-testing-is-the-future-why-you-should-learn-it-now-95f32bc14f14?source=rss-13a2ac43dc86------2)
 - [Mocking APIs in Cypress: The Missing Skill That Separates Juniors from Experts](https://skakarh.medium.com/mocking-apis-in-cypress-the-missing-skill-that-separates-juniors-from-experts-fafba3e1bd47?source=rss-13a2ac43dc86------2)
 - [Stop Writing Tests, Start Training Them: The Rise of Self-Writing Playwright Frameworks](https://skakarh.medium.com/stop-writing-tests-start-training-them-the-rise-of-self-writing-playwright-frameworks-33e99df1f854?source=rss-13a2ac43dc86------2)
 - [AI Agents Are Writing Playwright Tests Now — Here’s What That Means for QA Engineers](https://skakarh.medium.com/ai-agents-are-writing-playwright-tests-now-heres-what-that-means-for-qa-engineers-555c82b82058?source=rss-13a2ac43dc86------2)
 - [“From Zero to Cypress Framework: How to Build a Test Automation Setup That Scales”](https://skakarh.medium.com/from-zero-to-cypress-framework-how-to-build-a-test-automation-setup-that-scales-821c190613b2?source=rss-13a2ac43dc86------2)
-- [“Your Cypress Folder Structure Is Holding You Back — Here’s a Scalable Setup”](https://skakarh.medium.com/your-cypress-folder-structure-is-holding-you-back-heres-a-scalable-setup-42ec8576f6af?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
