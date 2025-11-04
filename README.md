@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Your Playwright Framework Is Dumb — Until You Add AI](https://skakarh.medium.com/your-playwright-framework-is-dumb-until-you-add-ai-5df8012b67a1?source=rss-13a2ac43dc86------2)
 - [How to Use Cypress with Postman Collections for Full-Stack Testing](https://skakarh.medium.com/how-to-use-cypress-with-postman-collections-for-full-stack-testing-8e564aa39f62?source=rss-13a2ac43dc86------2)
 - [Playwright Meets GPT-5: How LLMs Are Changing the Way We Test Web Apps](https://skakarh.medium.com/playwright-meets-gpt-5-how-llms-are-changing-the-way-we-test-web-apps-d3c9a1771a66?source=rss-13a2ac43dc86------2)
 - [Cypress Component Testing Is the Future — Why You Should Learn It Now](https://skakarh.medium.com/cypress-component-testing-is-the-future-why-you-should-learn-it-now-95f32bc14f14?source=rss-13a2ac43dc86------2)
 - [Mocking APIs in Cypress: The Missing Skill That Separates Juniors from Experts](https://skakarh.medium.com/mocking-apis-in-cypress-the-missing-skill-that-separates-juniors-from-experts-fafba3e1bd47?source=rss-13a2ac43dc86------2)
-- [Stop Writing Tests, Start Training Them: The Rise of Self-Writing Playwright Frameworks](https://skakarh.medium.com/stop-writing-tests-start-training-them-the-rise-of-self-writing-playwright-frameworks-33e99df1f854?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
