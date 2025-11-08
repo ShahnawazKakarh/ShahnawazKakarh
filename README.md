@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [⚡️ Playwright vs Cypress vs Playwright+AI: The 2026 Automation Showdown](https://skakarh.medium.com/%EF%B8%8F-playwright-vs-cypress-vs-playwright-ai-the-2026-automation-showdown-8dfb1706fc5d?source=rss-13a2ac43dc86------2)
 - [Why Your Playwright Tests Keep Breaking — And How AI Can Stop That Forever](https://skakarh.medium.com/why-your-playwright-tests-keep-breaking-and-how-ai-can-stop-that-forever-66c391c2d822?source=rss-13a2ac43dc86------2)
 - [From Script-Based to Smart Testing: Building AI-Augmented Playwright Frameworks for 2026](https://skakarh.medium.com/from-script-based-to-smart-testing-building-ai-augmented-playwright-frameworks-for-2026-a859cfb8fe9c?source=rss-13a2ac43dc86------2)
 - [⚙️ The Agentic QA Stack: How Playwright Fits into the AI-Driven Testing Pipeline](https://skakarh.medium.com/%EF%B8%8F-the-agentic-qa-stack-how-playwright-fits-into-the-ai-driven-testing-pipeline-c4109152fa5c?source=rss-13a2ac43dc86------2)
 - [Your Playwright Framework Is Dumb — Until You Add AI](https://skakarh.medium.com/your-playwright-framework-is-dumb-until-you-add-ai-5df8012b67a1?source=rss-13a2ac43dc86------2)
-- [How to Use Cypress with Postman Collections for Full-Stack Testing](https://skakarh.medium.com/how-to-use-cypress-with-postman-collections-for-full-stack-testing-8e564aa39f62?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
