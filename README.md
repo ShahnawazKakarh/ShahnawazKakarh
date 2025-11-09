@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [⚙️ How Vector DB Latency Impacts AI-Driven Test Optimization in the Agentic QA Stack](https://skakarh.medium.com/%EF%B8%8F-how-vector-db-latency-impacts-ai-driven-test-optimization-in-the-agentic-qa-stack-f62d3aae66f6?source=rss-13a2ac43dc86------2)
 - [The Future of Playwright Testing Is Conversational: Chat-to-Test Workflows Explained](https://skakarh.medium.com/the-future-of-playwright-testing-is-conversational-chat-to-test-workflows-explained-bcded0a9f924?source=rss-13a2ac43dc86------2)
 - [LLM-Powered QA Pipelines: Connecting Playwright, GitHub Copilot, and Autogen Agents](https://skakarh.medium.com/llm-powered-qa-pipelines-connecting-playwright-github-copilot-and-autogen-agents-1c982cf674c8?source=rss-13a2ac43dc86------2)
 - [⚡️ Playwright vs Cypress vs Playwright+AI: The 2026 Automation Showdown](https://skakarh.medium.com/%EF%B8%8F-playwright-vs-cypress-vs-playwright-ai-the-2026-automation-showdown-8dfb1706fc5d?source=rss-13a2ac43dc86------2)
 - [Why Your Playwright Tests Keep Breaking — And How AI Can Stop That Forever](https://skakarh.medium.com/why-your-playwright-tests-keep-breaking-and-how-ai-can-stop-that-forever-66c391c2d822?source=rss-13a2ac43dc86------2)
-- [From Script-Based to Smart Testing: Building AI-Augmented Playwright Frameworks for 2026](https://skakarh.medium.com/from-script-based-to-smart-testing-building-ai-augmented-playwright-frameworks-for-2026-a859cfb8fe9c?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
