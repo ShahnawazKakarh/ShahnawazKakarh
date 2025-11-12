@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [AI Testers Are Not Coming… They’re Already Here — The QA Revolution of 2026](https://skakarh.medium.com/ai-testers-are-not-coming-theyre-already-here-the-qa-revolution-of-2026-ccd0116ba55a?source=rss-13a2ac43dc86------2)
 - [⚙️ Integrating Playwright with LangChain and Autogen — A Step-by-Step AI QA Pipeline](https://skakarh.medium.com/%EF%B8%8F-integrating-playwright-with-langchain-and-autogen-a-step-by-step-ai-qa-pipeline-6d75095f7b26?source=rss-13a2ac43dc86------2)
 - [From Test Runner to Test Thinker: The Cognitive Shift Every Playwright Engineer Needs in 2026](https://skakarh.medium.com/from-test-runner-to-test-thinker-the-cognitive-shift-every-playwright-engineer-needs-in-2026-5afa0ac1d393?source=rss-13a2ac43dc86------2)
 - [RAG + Playwright: Teaching AI to Write Smarter Regression Tests](https://skakarh.medium.com/rag-playwright-teaching-ai-to-write-smarter-regression-tests-6fc1ad27cadf?source=rss-13a2ac43dc86------2)
 - [How I Built an AI Test Agent That Runs Playwright Tests Based on Jira Bug Reports](https://skakarh.medium.com/how-i-built-an-ai-test-agent-that-runs-playwright-tests-based-on-jira-bug-reports-02b8b259c8d3?source=rss-13a2ac43dc86------2)
-- [⚙️ How Vector DB Latency Impacts AI-Driven Test Optimization in the Agentic QA Stack](https://skakarh.medium.com/%EF%B8%8F-how-vector-db-latency-impacts-ai-driven-test-optimization-in-the-agentic-qa-stack-f62d3aae66f6?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
