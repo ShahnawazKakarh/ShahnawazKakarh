@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Agentic QA: How Autonomous Testers Will Transform Quality Engineering](https://skakarh.medium.com/the-rise-of-agentic-qa-how-autonomous-testers-will-transform-quality-engineering-3acba93375b5?source=rss-13a2ac43dc86------2)
 - [Why 90% of AI Testing Startups Will Fail in 2026 and What the Remaining 10% Got Right [Must…](https://skakarh.medium.com/why-90-of-ai-testing-startups-will-fail-in-2026-and-what-the-remaining-10-got-right-must-36be43d19872?source=rss-13a2ac43dc86------2)
 - [Selenium Isn’t Dead — It’s Getting Smarter with AI](https://skakarh.medium.com/selenium-isnt-dead-it-s-getting-smarter-with-ai-5cfaa8cd3207?source=rss-13a2ac43dc86------2)
 - [From Test Automation to Cognitive Automation: The Next Leap for QA Engineers](https://skakarh.medium.com/from-test-automation-to-cognitive-automation-the-next-leap-for-qa-engineers-170c19590423?source=rss-13a2ac43dc86------2)
 - [AI Testers Are Not Coming… They’re Already Here — The QA Revolution of 2026](https://skakarh.medium.com/ai-testers-are-not-coming-theyre-already-here-the-qa-revolution-of-2026-ccd0116ba55a?source=rss-13a2ac43dc86------2)
-- [⚙️ Integrating Playwright with LangChain and Autogen — A Step-by-Step AI QA Pipeline](https://skakarh.medium.com/%EF%B8%8F-integrating-playwright-with-langchain-and-autogen-a-step-by-step-ai-qa-pipeline-6d75095f7b26?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
