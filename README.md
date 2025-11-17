@@ -130,7 +130,7 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
-- [Selenium + LLMs: Writing Tests by Chatting With Your Framework](https://skakarh.medium.com/selenium-llms-writing-tests-by-chatting-with-your-framework-94796a14cd7a?source=rss-13a2ac43dc86------2)
+- [Selenium + LLMs: Writing Tests by Chatting With Your Framework](https://ai.plainenglish.io/selenium-llms-writing-tests-by-chatting-with-your-framework-94796a14cd7a?source=rss-13a2ac43dc86------2)
 - [The Last Framework You’ll Ever Build: Selenium + AI + CI/CD = Continuous Quality Intelligence](https://skakarh.medium.com/the-last-framework-youll-ever-build-selenium-ai-ci-cd-continuous-quality-intelligence-f85591c08d16?source=rss-13a2ac43dc86------2)
 - [⚙️ You Don’t Need More Testers — You Need Smarter Test Agents](https://skakarh.medium.com/%EF%B8%8F-you-dont-need-more-testers-you-need-smarter-test-agents-5ef9179789b0?source=rss-13a2ac43dc86------2)
 - [The Rise of Agentic QA: How Autonomous Testers Will Transform Quality Engineering](https://skakarh.medium.com/the-rise-of-agentic-qa-how-autonomous-testers-will-transform-quality-engineering-3acba93375b5?source=rss-13a2ac43dc86------2)
