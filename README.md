@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [⚡️ Selenium Meets Machine Learning: Predicting Test Failures Before They Happen](https://skakarh.medium.com/%EF%B8%8F-selenium-meets-machine-learning-predicting-test-failures-before-they-happen-ccf0635cb210?source=rss-13a2ac43dc86------2)
+- [Integrating Selenium with LangChain &amp; Autogen: &lpar;Step-by-Step Guide&rpar;](https://skakarh.medium.com/integrating-selenium-with-langchain-autogen-step-by-step-guide-2c4481e4a0a9?source=rss-13a2ac43dc86------2)
 - [Replacing Manual Assertions with AI Reasoning — The Future of Validation in Selenium](https://skakarh.medium.com/replacing-manual-assertions-with-ai-reasoning-the-future-of-validation-in-selenium-dd6273d8b4b7?source=rss-13a2ac43dc86------2)
 - [From Selenium Grid to Selenium Brain: Orchestrating AI-Powered Test Runs Across Environments”](https://ai.plainenglish.io/from-selenium-grid-to-selenium-brain-orchestrating-ai-powered-test-runs-across-environments-77d567b9f090?source=rss-13a2ac43dc86------2)
 - [Visual Selenium Testing with GPT-V: AI Eyes for Your Web App](https://skakarh.medium.com/visual-selenium-testing-with-gpt-v-ai-eyes-for-your-web-app-b808b5b88b47?source=rss-13a2ac43dc86------2)
-- [How I Used AI to Maintain a 10,000-Test Selenium Suite with Zero Manual Fixes](https://skakarh.medium.com/how-i-used-ai-to-maintain-a-10-000-test-selenium-suite-with-zero-manual-fixes-cb3b27483e4c?source=rss-13a2ac43dc86------2)
-- [Playwright Agents in new release 1.56;](https://skakarh.medium.com/playwright-agents-in-1-56-8127ac936f15?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
