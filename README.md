@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Teaching AI to Think Like a Tester: The Hidden Skill Behind Smart QA Agents](https://ai.plainenglish.io/teaching-ai-to-think-like-a-tester-the-hidden-skill-behind-smart-qa-agents-4e14f3f051bf?source=rss-13a2ac43dc86------2)
 - [How LLMs Are Fixing the Oldest Problem in QA — Test Maintenance Hell](https://skakarh.medium.com/how-llms-are-fixing-the-oldest-problem-in-qa-test-maintenance-hell-edc572b01c0a?source=rss-13a2ac43dc86------2)
-- [The Future QA Engineer &lpar;2025–2030&rpar;: Part Developer, Part Prompt Engineer, Part Data Curator](https://skakarh.medium.com/the-future-qa-engineer-2025-2030-part-developer-part-prompt-engineer-part-data-curator-75956ba5aff0?source=rss-13a2ac43dc86------2)
+- [The Future QA Engineer &lpar;2025–2030&rpar;: Part Developer, Part Prompt Engineer, Part Data Curator](https://generativeai.pub/the-future-qa-engineer-2025-2030-part-developer-part-prompt-engineer-part-data-curator-75956ba5aff0?source=rss-13a2ac43dc86------2)
 - [⚡️ Selenium Meets Machine Learning: Predicting Test Failures Before They Happen](https://skakarh.medium.com/%EF%B8%8F-selenium-meets-machine-learning-predicting-test-failures-before-they-happen-ccf0635cb210?source=rss-13a2ac43dc86------2)
 - [Integrating Selenium with LangChain &amp; Autogen: &lpar;Step-by-Step Guide&rpar;](https://skakarh.medium.com/integrating-selenium-with-langchain-autogen-step-by-step-guide-2c4481e4a0a9?source=rss-13a2ac43dc86------2)
-- [Replacing Manual Assertions with AI Reasoning — The Future of Validation in Selenium](https://skakarh.medium.com/replacing-manual-assertions-with-ai-reasoning-the-future-of-validation-in-selenium-dd6273d8b4b7?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
