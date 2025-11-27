@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Killing JSON Noise: How Toon Makes AI Testing 10× Faster and More Reliable](https://skakarh.medium.com/killing-json-noise-how-toon-makes-ai-testing-10-faster-and-more-reliable-a1520e0c2dbc?source=rss-13a2ac43dc86------2)
 - [Pytest Is Getting an Upgrade — Meet the AI-Powered Test Runner of 2026](https://skakarh.medium.com/pytest-is-getting-an-upgrade-meet-the-ai-powered-test-runner-of-2026-21e28e94efd3?source=rss-13a2ac43dc86------2)
 - [Postman Isn’t Just a Tool Anymore, It’s Becoming an AI Test Engineer](https://skakarh.medium.com/postman-isnt-just-a-tool-anymore-it-s-becoming-an-ai-test-engineer-3cc1ae575595?source=rss-13a2ac43dc86------2)
 - [The Most Powerful Framework of 2026: Pytest + FastAPI + GPT-5 for Full-Stack Intelligent Testing](https://skakarh.medium.com/the-most-powerful-framework-of-2026-pytest-fastapi-gpt-5-for-full-stack-intelligent-testing-b76826feea74?source=rss-13a2ac43dc86------2)
 - [Teaching AI to Think Like a Tester: The Hidden Skill Behind Smart QA Agents](https://skakarh.medium.com/teaching-ai-to-think-like-a-tester-the-hidden-skill-behind-smart-qa-agents-4e14f3f051bf?source=rss-13a2ac43dc86------2)
-- [How LLMs Are Fixing the Oldest Problem in QA — Test Maintenance Hell](https://skakarh.medium.com/how-llms-are-fixing-the-oldest-problem-in-qa-test-maintenance-hell-edc572b01c0a?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
