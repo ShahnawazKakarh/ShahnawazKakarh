@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [The Future of API Testing: AI-Generated Scenarios with Pytest + LLMs](https://ai.plainenglish.io/the-future-of-api-testing-ai-generated-scenarios-with-pytest-llms-2d82ae8a4408?source=rss-13a2ac43dc86------2)
+- [⚡ Your Postman Tests Are Smart Now: RAG + Vector DB for Context-Aware API Validation](https://generativeai.pub/your-postman-tests-are-smart-now-rag-vector-db-for-context-aware-api-validation-8e533ebab5fc?source=rss-13a2ac43dc86------2)
 - [Teaching Pytest to Think: RAG + Vector DBs for Context-Aware API Testing](https://skakarh.medium.com/teaching-pytest-to-think-rag-vector-dbs-for-context-aware-api-testing-b7f2ef3b49b8?source=rss-13a2ac43dc86------2)
 - [AI-Powered Assertions in Postman: No More Hardcoding Expected Results](https://skakarh.medium.com/ai-powered-assertions-in-postman-no-more-hardcoding-expected-results-82fdf8dd2523?source=rss-13a2ac43dc86------2)
 - [How I Used GPT-5 to Auto-Write API Tests in Pytest from a Swagger File](https://skakarh.medium.com/how-i-used-gpt-5-to-auto-write-api-tests-in-pytest-from-a-swagger-file-025e483e90f2?source=rss-13a2ac43dc86------2)
-- [Killing JSON Noise: How Toon Makes AI Testing 10× Faster and More Reliable](https://skakarh.medium.com/killing-json-noise-how-toon-makes-ai-testing-10-faster-and-more-reliable-a1520e0c2dbc?source=rss-13a2ac43dc86------2)
-- [Pytest Is Getting an Upgrade — Meet the AI-Powered Test Runner of 2026](https://skakarh.medium.com/pytest-is-getting-an-upgrade-meet-the-ai-powered-test-runner-of-2026-21e28e94efd3?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
