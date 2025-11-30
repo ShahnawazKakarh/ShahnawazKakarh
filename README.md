@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [From Pytest Scripts to Test Agents: Building Autonomous API Testers with Autogen](https://skakarh.medium.com/from-pytest-scripts-to-test-agents-building-autonomous-api-testers-with-autogen-a06a8a18d221?source=rss-13a2ac43dc86------2)
+- [⚡ “Your Postman Tests Are Smart Now: RAG + Vector DB for Context-Aware API Validation”](https://skakarh.medium.com/your-postman-tests-are-smart-now-rag-vector-db-for-context-aware-api-validation-7c3afb726efd?source=rss-13a2ac43dc86------2)
 - [The Future of API Testing: AI-Generated Scenarios with Pytest + LLMs](https://ai.plainenglish.io/the-future-of-api-testing-ai-generated-scenarios-with-pytest-llms-2d82ae8a4408?source=rss-13a2ac43dc86------2)
 - [⚡ Your Postman Tests Are Smart Now: RAG + Vector DB for Context-Aware API Validation](https://skakarh.medium.com/your-postman-tests-are-smart-now-rag-vector-db-for-context-aware-api-validation-8e533ebab5fc?source=rss-13a2ac43dc86------2)
 - [Teaching Pytest to Think: RAG + Vector DBs for Context-Aware API Testing](https://skakarh.medium.com/teaching-pytest-to-think-rag-vector-dbs-for-context-aware-api-testing-b7f2ef3b49b8?source=rss-13a2ac43dc86------2)
-- [AI-Powered Assertions in Postman: No More Hardcoding Expected Results](https://skakarh.medium.com/ai-powered-assertions-in-postman-no-more-hardcoding-expected-results-82fdf8dd2523?source=rss-13a2ac43dc86------2)
-- [How I Used GPT-5 to Auto-Write API Tests in Pytest from a Swagger File](https://skakarh.medium.com/how-i-used-gpt-5-to-auto-write-api-tests-in-pytest-from-a-swagger-file-025e483e90f2?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
