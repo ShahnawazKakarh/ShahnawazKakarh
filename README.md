@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Pytest + LangChain + Vector DB = A QA Knowledge Brain That Never Forgets](https://skakarh.medium.com/pytest-langchain-vector-db-a-qa-knowledge-brain-that-never-forgets-21e416dc3f89?source=rss-13a2ac43dc86------2)
+- [Postman + LangChain: Building a Conversational API Testing Framework](https://skakarh.medium.com/postman-langchain-building-a-conversational-api-testing-framework-c4efc8bcb79b?source=rss-13a2ac43dc86------2)
 - [AI-Driven Contract Testing: How Pytest + GPT-5 Validate APIs Without Manual Rules](https://skakarh.medium.com/ai-driven-contract-testing-how-pytest-gpt-5-validate-apis-without-manual-rules-07061832235c?source=rss-13a2ac43dc86------2)
 - [How I Turned Postman into a Self-Healing API Tester Using LLMs](https://skakarh.medium.com/how-i-turned-postman-into-a-self-healing-api-tester-using-llms-8e477fd3be39?source=rss-13a2ac43dc86------2)
 - [Why 80% of Postman Automation Is Outdated — And How AI Fixes It in 2026](https://skakarh.medium.com/why-80-of-postman-automation-is-outdated-and-how-ai-fixes-it-in-2026-877b1fd2a2ce?source=rss-13a2ac43dc86------2)
-- [From Pytest Scripts to Test Agents: Building Autonomous API Testers with Autogen](https://skakarh.medium.com/from-pytest-scripts-to-test-agents-building-autonomous-api-testers-with-autogen-5403cffeb90c?source=rss-13a2ac43dc86------2)
-- [From Pytest Scripts to Test Agents: Building Autonomous API Testers with Autogen](https://skakarh.medium.com/from-pytest-scripts-to-test-agents-building-autonomous-api-testers-with-autogen-a06a8a18d221?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
