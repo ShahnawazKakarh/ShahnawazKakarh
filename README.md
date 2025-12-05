@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Teaching Postman to Read: Using RAG to Validate APIs Against Real Requirements](https://skakarh.medium.com/teaching-postman-to-read-using-rag-to-validate-apis-against-real-requirements-50430072a2ac?source=rss-13a2ac43dc86------2)
 - [Stop Hardcoding Assertions — Use AI Reasoning to Validate API Behavior Dynamically](https://skakarh.medium.com/stop-hardcoding-assertions-use-ai-reasoning-to-validate-api-behavior-dynamically-aa4f50cea033?source=rss-13a2ac43dc86------2)
 - [⚡ Pytest + LangChain + Vector DB = A QA Knowledge Brain That Never Forgets](https://skakarh.medium.com/pytest-langchain-vector-db-a-qa-knowledge-brain-that-never-forgets-21e416dc3f89?source=rss-13a2ac43dc86------2)
 - [Postman + LangChain: Building a Conversational API Testing Framework](https://skakarh.medium.com/postman-langchain-building-a-conversational-api-testing-framework-c4efc8bcb79b?source=rss-13a2ac43dc86------2)
 - [AI-Driven Contract Testing: How Pytest + GPT-5 Validate APIs Without Manual Rules](https://skakarh.medium.com/ai-driven-contract-testing-how-pytest-gpt-5-validate-apis-without-manual-rules-07061832235c?source=rss-13a2ac43dc86------2)
-- [How I Turned Postman into a Self-Healing API Tester Using LLMs](https://skakarh.medium.com/how-i-turned-postman-into-a-self-healing-api-tester-using-llms-8e477fd3be39?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
