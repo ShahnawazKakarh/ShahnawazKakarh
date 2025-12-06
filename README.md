@@ -133,7 +133,7 @@ Here are some of my recent blogs where I share my experiences, tutorials, and le
 - [“How I Built an AI Load Tester: k6 Scripts That Write &amp; Fix Themselves”](https://skakarh.medium.com/how-i-built-an-ai-load-tester-k6-scripts-that-write-fix-themselves-5a601396bca9?source=rss-13a2ac43dc86------2)
 - [RAG-Powered Performance Testing: Real-Time API Behavior Feeds Your k6 Tests](https://skakarh.medium.com/rag-powered-performance-testing-real-time-api-behavior-feeds-your-k6-tests-d6ea85ffe4b0?source=rss-13a2ac43dc86------2)
 - [Teaching Postman to Read: Using RAG to Validate APIs Against Real Requirements](https://skakarh.medium.com/teaching-postman-to-read-using-rag-to-validate-apis-against-real-requirements-50430072a2ac?source=rss-13a2ac43dc86------2)
-- [Stop Hardcoding Assertions — Use AI Reasoning to Validate API Behavior Dynamically](https://ai.plainenglish.io/stop-hardcoding-assertions-use-ai-reasoning-to-validate-api-behavior-dynamically-aa4f50cea033?source=rss-13a2ac43dc86------2)
+- [Stop Hardcoding Assertions — Use AI Reasoning to Validate API Behavior Dynamically](https://skakarh.medium.com/stop-hardcoding-assertions-use-ai-reasoning-to-validate-api-behavior-dynamically-aa4f50cea033?source=rss-13a2ac43dc86------2)
 - [⚡ Pytest + LangChain + Vector DB = A QA Knowledge Brain That Never Forgets](https://skakarh.medium.com/pytest-langchain-vector-db-a-qa-knowledge-brain-that-never-forgets-21e416dc3f89?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
