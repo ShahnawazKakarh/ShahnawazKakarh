@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Load Testing Microservices with AI Personas: k6 + LLM-Generated User Journeys](https://skakarh.medium.com/load-testing-microservices-with-ai-personas-k6-llm-generated-user-journeys-7fea30070e16?source=rss-13a2ac43dc86------2)
 - [Autonomous Load Pipelines: GitHub Actions + k6 + GPT-5 Run Your Tests Before You Even Commit](https://skakarh.medium.com/autonomous-load-pipelines-github-actions-k6-gpt-5-run-your-tests-before-you-even-commit-93c26b26f7e0?source=rss-13a2ac43dc86------2)
 - [“How I Built an AI Load Tester: k6 Scripts That Write &amp; Fix Themselves”](https://skakarh.medium.com/how-i-built-an-ai-load-tester-k6-scripts-that-write-fix-themselves-5a601396bca9?source=rss-13a2ac43dc86------2)
 - [RAG-Powered Performance Testing: Real-Time API Behavior Feeds Your k6 Tests](https://skakarh.medium.com/rag-powered-performance-testing-real-time-api-behavior-feeds-your-k6-tests-d6ea85ffe4b0?source=rss-13a2ac43dc86------2)
 - [Teaching Postman to Read: Using RAG to Validate APIs Against Real Requirements](https://skakarh.medium.com/teaching-postman-to-read-using-rag-to-validate-apis-against-real-requirements-50430072a2ac?source=rss-13a2ac43dc86------2)
-- [Stop Hardcoding Assertions — Use AI Reasoning to Validate API Behavior Dynamically](https://skakarh.medium.com/stop-hardcoding-assertions-use-ai-reasoning-to-validate-api-behavior-dynamically-aa4f50cea033?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
