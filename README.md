@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [The Unspoken Secrets Behind Senior QA Judgment: Why They’re Always Right in Impossible…](https://skakarh.medium.com/the-unspoken-secrets-behind-senior-qa-judgment-why-theyre-always-right-in-impossible-bee6e40084ab?source=rss-13a2ac43dc86------2)
 - [“Turning Grafana Metrics Into English: GPT-5 Explains Your Load Test Spikes Like a DevOps…](https://skakarh.medium.com/turning-grafana-metrics-into-english-gpt-5-explains-your-load-test-spikes-like-a-devops-a4f3d145b1b4?source=rss-13a2ac43dc86------2)
 - [⚙️ The Self-Healing Load Test: How k6 + AI Auto-Tunes Thresholds &amp; Fixes Performance Regressions](https://skakarh.medium.com/%EF%B8%8F-the-self-healing-load-test-how-k6-ai-auto-tunes-thresholds-fixes-performance-regressions-5eb7fc23eae0?source=rss-13a2ac43dc86------2)
 - [Load Testing Microservices with AI Personas: k6 + LLM-Generated User Journeys](https://skakarh.medium.com/load-testing-microservices-with-ai-personas-k6-llm-generated-user-journeys-7fea30070e16?source=rss-13a2ac43dc86------2)
 - [Autonomous Load Pipelines: GitHub Actions + k6 + GPT-5 Run Your Tests Before You Even Commit](https://skakarh.medium.com/autonomous-load-pipelines-github-actions-k6-gpt-5-run-your-tests-before-you-even-commit-93c26b26f7e0?source=rss-13a2ac43dc86------2)
-- [“How I Built an AI Load Tester: k6 Scripts That Write &amp; Fix Themselves”](https://skakarh.medium.com/how-i-built-an-ai-load-tester-k6-scripts-that-write-fix-themselves-5a601396bca9?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
