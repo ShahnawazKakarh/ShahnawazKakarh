@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [The ‘Invisible Skill’ That Separates Good Testers From Industry Leaders](https://skakarh.medium.com/the-invisible-skill-that-separates-good-testers-from-industry-leaders-88f31eef6d69?source=rss-13a2ac43dc86------2)
 - [Zero-Config Load Testing: Give GPT-5 Your System Diagram &amp; It Creates k6 Scenarios Automatically](https://skakarh.medium.com/zero-config-load-testing-give-gpt-5-your-system-diagram-it-creates-k6-scenarios-automatically-e7ada33f940f?source=rss-13a2ac43dc86------2)
 - [What Elite QA Engineers Do in Their First 30 Minutes of a Bug Investigation](https://skakarh.medium.com/what-elite-qa-engineers-do-in-their-first-30-minutes-of-a-bug-investigation-4efc9ff45db4?source=rss-13a2ac43dc86------2)
 - [Why 90% Test Automation Fails — And How Top 1% Engineers Design Frameworks That Survive Years](https://skakarh.medium.com/why-90-test-automation-fails-and-how-top-1-engineers-design-frameworks-that-survive-years-c40da75d525b?source=rss-13a2ac43dc86------2)
 - [The 2026 QA Skill Nobody Is Talking About… But Every CTO Secretly Wants](https://skakarh.medium.com/the-2026-qa-skill-nobody-is-talking-about-but-every-cto-secretly-wants-b0a21ad2ba06?source=rss-13a2ac43dc86------2)
-- [Predicting Production Outages Using k6 + LSTM + LLM: 2026 DevOps Superpowers](https://skakarh.medium.com/predicting-production-outages-using-k6-lstm-llm-2026-devops-superpowers-1ed8d0d94ba0?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
