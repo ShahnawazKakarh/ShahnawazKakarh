@@ -130,11 +130,11 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Automation Framework Is Slowing You Down — And How Top Engineers Build Self-Healing…](https://skakarh.medium.com/why-your-automation-framework-is-slowing-you-down-and-how-top-engineers-build-self-healing-8e9098f5cc4c?source=rss-13a2ac43dc86------2)
+- [Day 3️⃣ - Data Types in Python That Every Beginner Must Understand &lpar;With Real Examples&rpar;](https://skakarh.medium.com/day-3%EF%B8%8F%E2%83%A3-data-types-in-python-that-every-beginner-must-understand-with-real-examples-48e843189ff2?source=rss-13a2ac43dc86------2)
 - [Day 2️⃣ — Python Syntax Explained Like You’re 5 &lpar;Variables, Print, Comments&rpar;](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A3-python-syntax-explained-like-youre-5-variables-print-comments-812031d05dbd?source=rss-13a2ac43dc86------2)
 - [10 Decisions That Instantly Turn a Mid-Level QA Into a Principal QA
 Not years.](https://skakarh.medium.com/10-decisions-that-instantly-turn-a-mid-level-qa-into-a-principal-qa-not-years-e452647ef179?source=rss-13a2ac43dc86------2)
 - [The 2026 QA Blueprint: How Top Engineers Think About AI, RAG, LLMs &amp; Autonomy in Testing](https://skakarh.medium.com/the-2026-qa-blueprint-how-top-engineers-think-about-ai-rag-llms-autonomy-in-testing-0dfcfc9038f1?source=rss-13a2ac43dc86------2)
-- [Day1: Why Python Is the Best First Programming Language in 2026 &lpar;And How to Start Right&rpar;](https://skakarh.medium.com/day1-why-python-is-the-best-first-programming-language-in-2026-and-how-to-start-right-e6c2e0431a7c?source=rss-13a2ac43dc86------2)
-- [The ‘Invisible Skill’ That Separates Good Testers From Industry Leaders](https://skakarh.medium.com/the-invisible-skill-that-separates-good-testers-from-industry-leaders-88f31eef6d69?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
