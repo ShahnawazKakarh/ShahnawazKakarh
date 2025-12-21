@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [This Is How the Best QA Engineers Think About Complexity](https://skakarh.medium.com/this-is-how-the-best-qa-engineers-think-about-complexity-e7db95a40cd0?source=rss-13a2ac43dc86------2)
 - [From Logs to Load Tests: k6 + Vector DB That Converts Production Logs Into Test Scenarios](https://skakarh.medium.com/from-logs-to-load-tests-k6-vector-db-that-converts-production-logs-into-test-scenarios-c8294deced3e?source=rss-13a2ac43dc86------2)
 - [Turning Postman Logs Into a Vector Knowledge Graph for Smart Debugging](https://skakarh.medium.com/turning-postman-logs-into-a-vector-knowledge-graph-for-smart-debugging-0d095bea3eec?source=rss-13a2ac43dc86------2)
 - [What the Best QA Leads Do Differently When Designing Test Coverage](https://skakarh.medium.com/what-the-best-qa-leads-do-differently-when-designing-test-coverage-bdc5b30ff8a6?source=rss-13a2ac43dc86------2)
 - [From Tester to Architect — The Subtle Thinking Shifts That Unlock Principal-Level QA Skills](https://skakarh.medium.com/from-tester-to-architect-the-subtle-thinking-shifts-that-unlock-principal-level-qa-skills-15a0c8f67262?source=rss-13a2ac43dc86------2)
-- [AI-Generated Load Patterns: How I Used GPT-5 to Recreate Black Friday Traffic with k6](https://skakarh.medium.com/ai-generated-load-patterns-how-i-used-gpt-5-to-recreate-black-friday-traffic-with-k6-36a5f56b12d8?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
