@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 5️⃣ — Loops in Python: for vs while &lpar;And When to Use Each&rpar;](https://skakarh.medium.com/day-5%EF%B8%8F%E2%83%A3-loops-in-python-for-vs-while-and-when-to-use-each-778e33674f80?source=rss-13a2ac43dc86------2)
 - [“Vibium — V1 Is Here: Why the Creator of Selenium Just Reset Test Automation Forever”](https://skakarh.medium.com/vibium-v1-is-here-why-the-creator-of-selenium-just-reset-test-automation-forever-c342fd5443aa?source=rss-13a2ac43dc86------2)
 - [How I Built a Postman Bot That Detects Breaking API Changes Before Deploy using LLM](https://skakarh.medium.com/how-i-built-a-postman-bot-that-detects-breaking-api-changes-before-deploy-using-llm-e3d66f9f20d4?source=rss-13a2ac43dc86------2)
 - [Day 4️⃣ — ⚖️ If, Else, and Logic in Python, How Computers Actually Make Decisions](https://skakarh.medium.com/day-4%EF%B8%8F%E2%83%A3-%EF%B8%8F-if-else-and-logic-in-python-how-computers-actually-make-decisions-50159e83b432?source=rss-13a2ac43dc86------2)
 - [This Is How the Best QA Engineers Think About Complexity](https://skakarh.medium.com/this-is-how-the-best-qa-engineers-think-about-complexity-e7db95a40cd0?source=rss-13a2ac43dc86------2)
-- [From Logs to Load Tests: k6 + Vector DB That Converts Production Logs Into Test Scenarios](https://skakarh.medium.com/from-logs-to-load-tests-k6-vector-db-that-converts-production-logs-into-test-scenarios-c8294deced3e?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
