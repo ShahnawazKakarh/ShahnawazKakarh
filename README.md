@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Why Playwright + MCP Is the Future of QA — And Why Most Engineers Aren’t Ready](https://skakarh.medium.com/why-playwright-mcp-is-the-future-of-qa-and-why-most-engineers-arent-ready-ed2375e33c2c?source=rss-13a2ac43dc86------2)
+- [Day 7️⃣ —  Your First Python Mini Project: Build Something Useful in 30 Lines](https://skakarh.medium.com/day-7%EF%B8%8F%E2%83%A3-your-first-python-mini-project-build-something-useful-in-30-lines-5ce70e5e7b2c?source=rss-13a2ac43dc86------2)
 - [What Elite QA Engineers Understand About AI-Driven Playwright Testing That Juniors Don’t](https://skakarh.medium.com/what-elite-qa-engineers-understand-about-ai-driven-playwright-testing-that-juniors-dont-d2144a95f1d6?source=rss-13a2ac43dc86------2)
 - [Day 6️⃣ -   Python Lists, Tuples, Sets, and Dictionaries — Explained Visually](https://skakarh.medium.com/day-6%EF%B8%8F%E2%83%A3-python-lists-tuples-sets-and-dictionaries-explained-visually-1edb8d648e8b?source=rss-13a2ac43dc86------2)
 - [Day 5️⃣ — Loops in Python: for vs while &lpar;And When to Use Each&rpar;](https://skakarh.medium.com/day-5%EF%B8%8F%E2%83%A3-loops-in-python-for-vs-while-and-when-to-use-each-778e33674f80?source=rss-13a2ac43dc86------2)
-- [“Vibium — V1 Is Here: Why the Creator of Selenium Just Reset Test Automation Forever”](https://skakarh.medium.com/vibium-v1-is-here-why-the-creator-of-selenium-just-reset-test-automation-forever-c342fd5443aa?source=rss-13a2ac43dc86------2)
-- [How I Built a Postman Bot That Detects Breaking API Changes Before Deploy using LLM](https://skakarh.medium.com/how-i-built-a-postman-bot-that-detects-breaking-api-changes-before-deploy-using-llm-e3d66f9f20d4?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
