@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day  — ⚠️ Error Handling in Python: Try, Except, Finally — Explained with Real Bugs](https://skakarh.medium.com/day-%EF%B8%8F-error-handling-in-python-try-except-finally-explained-with-real-bugs-5a549bc61131?source=rss-13a2ac43dc86------2)
+- [Why JMeter Is Still the King of Performance Testing in 2026](https://skakarh.medium.com/why-jmeter-is-still-the-king-of-performance-testing-in-2026-2af7f68a3cce?source=rss-13a2ac43dc86------2)
 - [Day 9️⃣ —  Understanding Scope in Python](https://skakarh.medium.com/day-9%EF%B8%8F%E2%83%A3-understanding-scope-in-python-65ef7d23d417?source=rss-13a2ac43dc86------2)
 - [Vibium vs Selenium — A Deeper Engineering Comparison &lpar;Beyond the Basics&rpar;](https://skakarh.medium.com/vibium-vs-selenium-a-deeper-engineering-comparison-beyond-the-basics-768e22a55408?source=rss-13a2ac43dc86------2)
 - [Day 8️⃣ —   Functions in Python: Stop Copy-Pasting Code Forever](https://skakarh.medium.com/day-8%EF%B8%8F%E2%83%A3-functions-in-python-stop-copy-pasting-code-forever-74befdecc923?source=rss-13a2ac43dc86------2)
-- [Why Playwright + MCP Is the Future of QA — And Why Most Engineers Aren’t Ready](https://skakarh.medium.com/why-playwright-mcp-is-the-future-of-qa-and-why-most-engineers-arent-ready-ed2375e33c2c?source=rss-13a2ac43dc86------2)
-- [Day 7️⃣ —  Your First Python Mini Project: Build Something Useful in 30 Lines](https://skakarh.medium.com/day-7%EF%B8%8F%E2%83%A3-your-first-python-mini-project-build-something-useful-in-30-lines-5ce70e5e7b2c?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
