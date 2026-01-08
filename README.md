@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 1️⃣2️⃣ — Writing Clean  Python Code: Naming, Formatting, and Readability](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-writing-clean-python-code-naming-formatting-and-readability-e320412498ce?source=rss-13a2ac43dc86------2)
+- [Day 3️⃣ — ⚙️ Installing JMeter the Right Way &lpar;Windows, Mac, Linux&rpar;](https://skakarh.medium.com/day-3%EF%B8%8F%E2%83%A3-%EF%B8%8F-installing-jmeter-the-right-way-windows-mac-linux-2976554d1710?source=rss-13a2ac43dc86------2)
 - [JMeter Architecture Explained: How JMeter Really Works Under the Hood](https://skakarh.medium.com/jmeter-architecture-explained-how-jmeter-really-works-under-the-hood-834eb59d412b?source=rss-13a2ac43dc86------2)
 - [Day 11 — Reading and Writing Files in Python &lpar;The Right Way&rpar;](https://skakarh.medium.com/day-11-reading-and-writing-files-in-python-the-right-way-c649e83f0c60?source=rss-13a2ac43dc86------2)
 - [Day  — ⚠️ Error Handling in Python: Try, Except, Finally — Explained with Real Bugs](https://skakarh.medium.com/day-%EF%B8%8F-error-handling-in-python-try-except-finally-explained-with-real-bugs-5a549bc61131?source=rss-13a2ac43dc86------2)
-- [Why JMeter Is Still the King of Performance Testing in 2026](https://skakarh.medium.com/why-jmeter-is-still-the-king-of-performance-testing-in-2026-2af7f68a3cce?source=rss-13a2ac43dc86------2)
-- [Day 9️⃣ —  Understanding Scope in Python](https://skakarh.medium.com/day-9%EF%B8%8F%E2%83%A3-understanding-scope-in-python-65ef7d23d417?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
