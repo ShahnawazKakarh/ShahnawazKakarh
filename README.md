@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [How to Supercharge Playwright with Claude: Auto-Generate UI, API &amp; DB Tests Using mcp-playwright](https://skakarh.medium.com/how-to-supercharge-playwright-with-claude-auto-generate-ui-api-db-tests-using-mcp-playwright-5c277ef516c8?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣3️⃣ —  Python Modules &amp; Packages: How Real Projects Are Structured](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-python-modules-packages-how-real-projects-are-structured-a7f2b4103c76?source=rss-13a2ac43dc86------2)
 - [Day 4️⃣ —  Understanding JMeter Test Plan, Thread Group &amp; Samplers &lpar;Beginner Friendly&rpar;](https://skakarh.medium.com/day-4%EF%B8%8F%E2%83%A3-understanding-jmeter-test-plan-thread-group-samplers-beginner-friendly-a84b984a2ab4?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣2️⃣ — Writing Clean  Python Code: Naming, Formatting, and Readability](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-writing-clean-python-code-naming-formatting-and-readability-e320412498ce?source=rss-13a2ac43dc86------2)
 - [Day 3️⃣ — ⚙️ Installing JMeter the Right Way &lpar;Windows, Mac, Linux&rpar;](https://skakarh.medium.com/day-3%EF%B8%8F%E2%83%A3-%EF%B8%8F-installing-jmeter-the-right-way-windows-mac-linux-2976554d1710?source=rss-13a2ac43dc86------2)
-- [JMeter Architecture Explained: How JMeter Really Works Under the Hood](https://skakarh.medium.com/jmeter-architecture-explained-how-jmeter-really-works-under-the-hood-834eb59d412b?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
