@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 5️⃣ — Your First HTTP Request in JMeter](https://skakarh.medium.com/day-5%EF%B8%8F%E2%83%A3-your-first-http-request-in-jmeter-891b78496730?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣4️⃣ —  Introduction to Testing in Python: Your First Unit Test](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-introduction-to-testing-in-python-your-first-unit-test-6a151ed298b9?source=rss-13a2ac43dc86------2)
 - [How to Supercharge Playwright with Claude: Auto-Generate UI, API &amp; DB Tests Using mcp-playwright](https://skakarh.medium.com/how-to-supercharge-playwright-with-claude-auto-generate-ui-api-db-tests-using-mcp-playwright-5c277ef516c8?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣3️⃣ —  Python Modules &amp; Packages: How Real Projects Are Structured](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-python-modules-packages-how-real-projects-are-structured-a7f2b4103c76?source=rss-13a2ac43dc86------2)
 - [Day 4️⃣ —  Understanding JMeter Test Plan, Thread Group &amp; Samplers &lpar;Beginner Friendly&rpar;](https://skakarh.medium.com/day-4%EF%B8%8F%E2%83%A3-understanding-jmeter-test-plan-thread-group-samplers-beginner-friendly-a84b984a2ab4?source=rss-13a2ac43dc86------2)
-- [Day 1️⃣2️⃣ — Writing Clean  Python Code: Naming, Formatting, and Readability](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-writing-clean-python-code-naming-formatting-and-readability-e320412498ce?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
