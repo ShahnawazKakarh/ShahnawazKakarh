@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Run Ollama Like a Pro: Python, VS Code, Playwright &lpar;MCP&rpar; &amp; Low-RAM Optimization](https://skakarh.medium.com/run-ollama-like-a-pro-python-vs-code-playwright-mcp-low-ram-optimization-bbc8504380ee?source=rss-13a2ac43dc86------2)
 - [“What Elite Engineers Know About MCP, LLMs, and Playwright That Makes Their Tests Self-Evolving”](https://skakarh.medium.com/what-elite-engineers-know-about-mcp-llms-and-playwright-that-makes-their-tests-self-evolving-83124f14635a?source=rss-13a2ac43dc86------2)
 - [Day 6️⃣ — Thread Groups Explained: Users, Ramp-Up, Loop Count &lpar;With Real Examples&rpar;](https://skakarh.medium.com/day-6%EF%B8%8F%E2%83%A3-thread-groups-explained-users-ramp-up-loop-count-with-real-examples-08a0b4261e60?source=rss-13a2ac43dc86------2)
 - [Day 5️⃣ — Your First HTTP Request in JMeter](https://skakarh.medium.com/day-5%EF%B8%8F%E2%83%A3-your-first-http-request-in-jmeter-891b78496730?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣4️⃣ —  Introduction to Testing in Python: Your First Unit Test](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-introduction-to-testing-in-python-your-first-unit-test-6a151ed298b9?source=rss-13a2ac43dc86------2)
-- [How to Supercharge Playwright with Claude: Auto-Generate UI, API &amp; DB Tests Using mcp-playwright](https://skakarh.medium.com/how-to-supercharge-playwright-with-claude-auto-generate-ui-api-db-tests-using-mcp-playwright-5c277ef516c8?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
