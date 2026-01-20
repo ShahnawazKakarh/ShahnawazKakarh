@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 1️⃣7️⃣  — List Comprehensions in Python — Powerful, Pythonic, Dangerous?](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3-list-comprehensions-in-python-powerful-pythonic-dangerous-a98410a9cf28?source=rss-13a2ac43dc86------2)
+- [The Architecture Mistake 90% of Playwright Projects Make And How the Top 1% Quietly Avoid It](https://skakarh.medium.com/the-architecture-mistake-90-of-playwright-projects-make-and-how-the-top-1-quietly-avoid-it-619ffbaaec6f?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣6️⃣ —  “Classes vs Functions: When to Use What in Python”](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3-classes-vs-functions-when-to-use-what-in-python-712fb8012ca7?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣5️⃣ —  Object-Oriented Programming in Python &lpar;Without the Confusion&rpar;](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3-object-oriented-programming-in-python-without-the-confusion-f1f9cb1e1be8?source=rss-13a2ac43dc86------2)
 - [Run Ollama Like a Pro: Python, VS Code, Playwright &lpar;MCP&rpar; &amp; Low-RAM Optimization](https://skakarh.medium.com/run-ollama-like-a-pro-python-vs-code-playwright-mcp-low-ram-optimization-bbc8504380ee?source=rss-13a2ac43dc86------2)
-- [“What Elite Engineers Know About MCP, LLMs, and Playwright That Makes Their Tests Self-Evolving”](https://skakarh.medium.com/what-elite-engineers-know-about-mcp-llms-and-playwright-that-makes-their-tests-self-evolving-83124f14635a?source=rss-13a2ac43dc86------2)
-- [Day 6️⃣ — Thread Groups Explained: Users, Ramp-Up, Loop Count &lpar;With Real Examples&rpar;](https://skakarh.medium.com/day-6%EF%B8%8F%E2%83%A3-thread-groups-explained-users-ramp-up-loop-count-with-real-examples-08a0b4261e60?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
