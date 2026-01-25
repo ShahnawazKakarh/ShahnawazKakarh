@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [TestSprite MCP Server + Google AntiGravity = Autonomous E2E Testing &lpar;No Code Required!&rpar;](https://skakarh.medium.com/testsprite-mcp-server-google-antigravity-autonomous-e2e-testing-no-code-required-e6756f42a22c?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣9️⃣ — ⏱️ Decorators Explained Simply &lpar;One Concept Most Developers Avoid&rpar;](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-%EF%B8%8F-decorators-explained-simply-one-concept-most-developers-avoid-adabe07fbf63?source=rss-13a2ac43dc86------2)
 - [MCP-Driven E2E Architecture](https://skakarh.medium.com/mcp-driven-e2e-architecture-b6ebf7cc536a?source=rss-13a2ac43dc86------2)
 - [AI-First E2E Framework &lpar;Prompt → Execution&rpar;](https://skakarh.medium.com/ai-first-e2e-framework-prompt-execution-d8f2386508db?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣8️⃣ —  Iterators &amp; Generators: Python’s Secret Performance Weapon](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A38%EF%B8%8F%E2%83%A3-iterators-generators-pythons-secret-performance-weapon-dd65d42b4a5b?source=rss-13a2ac43dc86------2)
-- [Day 1️⃣7️⃣  — List Comprehensions in Python — Powerful, Pythonic, Dangerous?](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3-list-comprehensions-in-python-powerful-pythonic-dangerous-a98410a9cf28?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
