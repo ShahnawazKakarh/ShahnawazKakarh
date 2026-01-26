@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [XPath vs CSS Selectors in Selenium — [Easy to Understand]](https://skakarh.medium.com/xpath-vs-css-selectors-in-selenium-easy-to-understand-576c3619ca88?source=rss-13a2ac43dc86------2)
 - [Self-Healing E2E Tests &lpar;Without XPath Hell&rpar;](https://skakarh.medium.com/self-healing-e2e-tests-without-xpath-hell-cddcffecafec?source=rss-13a2ac43dc86------2)
 - [TestSprite MCP Server + Google AntiGravity = Autonomous E2E Testing &lpar;No Code Required!&rpar;](https://skakarh.medium.com/testsprite-mcp-server-google-antigravity-autonomous-e2e-testing-no-code-required-e6756f42a22c?source=rss-13a2ac43dc86------2)
 - [Day 1️⃣9️⃣ — ⏱️ Decorators Explained Simply &lpar;One Concept Most Developers Avoid&rpar;](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-%EF%B8%8F-decorators-explained-simply-one-concept-most-developers-avoid-adabe07fbf63?source=rss-13a2ac43dc86------2)
 - [MCP-Driven E2E Architecture](https://skakarh.medium.com/mcp-driven-e2e-architecture-b6ebf7cc536a?source=rss-13a2ac43dc86------2)
-- [AI-First E2E Framework &lpar;Prompt → Execution&rpar;](https://skakarh.medium.com/ai-first-e2e-framework-prompt-execution-d8f2386508db?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
