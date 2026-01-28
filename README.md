@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [From Prompt Chaos to Context Clarity: MCP Explained Simply](https://skakarh.medium.com/from-prompt-chaos-to-context-clarity-mcp-explained-simply-039dc33c7692?source=rss-13a2ac43dc86------2)
+- [Agentic E2E Test Automation Testing Framework in 2026](https://skakarh.medium.com/agentic-e2e-test-automation-testing-framework-in-2026-2fbce82a8faf?source=rss-13a2ac43dc86------2)
 - [XPath vs CSS Selectors in Selenium — [Easy to Understand]](https://skakarh.medium.com/xpath-vs-css-selectors-in-selenium-easy-to-understand-576c3619ca88?source=rss-13a2ac43dc86------2)
 - [Self-Healing E2E Tests &lpar;Without XPath Hell&rpar;](https://skakarh.medium.com/self-healing-e2e-tests-without-xpath-hell-cddcffecafec?source=rss-13a2ac43dc86------2)
 - [TestSprite MCP Server + Google AntiGravity = Autonomous E2E Testing &lpar;No Code Required!&rpar;](https://skakarh.medium.com/testsprite-mcp-server-google-antigravity-autonomous-e2e-testing-no-code-required-e6756f42a22c?source=rss-13a2ac43dc86------2)
-- [Day 1️⃣9️⃣ — ⏱️ Decorators Explained Simply &lpar;One Concept Most Developers Avoid&rpar;](https://skakarh.medium.com/day-1%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-%EF%B8%8F-decorators-explained-simply-one-concept-most-developers-avoid-adabe07fbf63?source=rss-13a2ac43dc86------2)
-- [MCP-Driven E2E Architecture](https://skakarh.medium.com/mcp-driven-e2e-architecture-b6ebf7cc536a?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
