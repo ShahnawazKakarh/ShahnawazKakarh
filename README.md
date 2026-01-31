@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Security-Aware E2E Framework : Security Bugs Hide in E2E Flows — My Framework Exposes Them](https://skakarh.medium.com/security-aware-e2e-framework-security-bugs-hide-in-e2e-flows-my-framework-exposes-them-202111577d72?source=rss-13a2ac43dc86------2)
+- [Day 2️⃣0️⃣ —  Context Managers &amp; with Statement: Writing Safer Python Code](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-context-managers-with-statement-writing-safer-python-code-2a3ed5c49f07?source=rss-13a2ac43dc86------2)
 - [From Prompt Chaos to Context Clarity: MCP Explained Simply](https://skakarh.medium.com/from-prompt-chaos-to-context-clarity-mcp-explained-simply-039dc33c7692?source=rss-13a2ac43dc86------2)
 - [Agentic E2E Test Automation Testing Framework in 2026](https://skakarh.medium.com/agentic-e2e-test-automation-testing-framework-in-2026-2fbce82a8faf?source=rss-13a2ac43dc86------2)
 - [XPath vs CSS Selectors in Selenium — [Easy to Understand]](https://skakarh.medium.com/xpath-vs-css-selectors-in-selenium-easy-to-understand-576c3619ca88?source=rss-13a2ac43dc86------2)
-- [Self-Healing E2E Tests &lpar;Without XPath Hell&rpar;](https://skakarh.medium.com/self-healing-e2e-tests-without-xpath-hell-cddcffecafec?source=rss-13a2ac43dc86------2)
-- [TestSprite MCP Server + Google AntiGravity = Autonomous E2E Testing &lpar;No Code Required!&rpar;](https://skakarh.medium.com/testsprite-mcp-server-google-antigravity-autonomous-e2e-testing-no-code-required-e6756f42a22c?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
