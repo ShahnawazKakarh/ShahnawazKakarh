@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 2️⃣3️⃣ —  Multithreading vs Multiprocessing in Python &lpar;The Truth About GIL&rpar;](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-multithreading-vs-multiprocessing-in-python-the-truth-about-gil-21a40c9cd12b?source=rss-13a2ac43dc86------2)
 - [“The Day I Realized Playwright Was Just the Beginning”](https://skakarh.medium.com/the-day-i-realized-playwright-was-just-the-beginning-2a648eefeb4e?source=rss-13a2ac43dc86------2)
 - [Day 2️⃣2️⃣ — ⚙️ How Python Manages Memory &lpar;And Why It Matters&rpar;](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-%EF%B8%8F-how-python-manages-memory-and-why-it-matters-769b50ee790a?source=rss-13a2ac43dc86------2)
 - [Teaching Postman to Read: Using RAG to Validate APIs Against Real Requirements](https://skakarh.medium.com/teaching-postman-to-read-using-rag-to-validate-apis-against-real-requirements-17d58dba6173?source=rss-13a2ac43dc86------2)
 - [Day 2️⃣1️⃣ —  Debugging Python Like a Pro: Tools, Techniques, and Mindset](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-debugging-python-like-a-pro-tools-techniques-and-mindset-4b3dcd27f442?source=rss-13a2ac43dc86------2)
-- [Security-Aware E2E Framework : Security Bugs Hide in E2E Flows — My Framework Exposes Them](https://skakarh.medium.com/security-aware-e2e-framework-security-bugs-hide-in-e2e-flows-my-framework-exposes-them-202111577d72?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
