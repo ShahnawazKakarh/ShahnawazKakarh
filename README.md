@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 2️⃣5️⃣ —  Working with APIs in Python: Requests, JSON, and Real Data](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3-working-with-apis-in-python-requests-json-and-real-data-b81118f2c3bf?source=rss-13a2ac43dc86------2)
+- [Day 2️⃣4️⃣ —  Async Python Explained: async, await, and Non-Blocking Code](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-async-python-explained-async-await-and-non-blocking-code-267fe1613791?source=rss-13a2ac43dc86------2)
 - [Test Automation Isn’t Hard — Poor Architecture Makes It Look Hard.](https://skakarh.medium.com/test-automation-isnt-hard-poor-architecture-makes-it-look-hard-8004edc4476c?source=rss-13a2ac43dc86------2)
 - [Day 2️⃣3️⃣ —  Multithreading vs Multiprocessing in Python &lpar;The Truth About GIL&rpar;](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-multithreading-vs-multiprocessing-in-python-the-truth-about-gil-21a40c9cd12b?source=rss-13a2ac43dc86------2)
 - [“The Day I Realized Playwright Was Just the Beginning”](https://skakarh.medium.com/the-day-i-realized-playwright-was-just-the-beginning-2a648eefeb4e?source=rss-13a2ac43dc86------2)
-- [Day 2️⃣2️⃣ — ⚙️ How Python Manages Memory &lpar;And Why It Matters&rpar;](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-%EF%B8%8F-how-python-manages-memory-and-why-it-matters-769b50ee790a?source=rss-13a2ac43dc86------2)
-- [Teaching Postman to Read: Using RAG to Validate APIs Against Real Requirements](https://skakarh.medium.com/teaching-postman-to-read-using-rag-to-validate-apis-against-real-requirements-17d58dba6173?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
