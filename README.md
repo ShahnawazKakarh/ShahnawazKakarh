@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 2️⃣9️⃣ —  How to Structure a Production-Ready Python Project](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-how-to-structure-a-production-ready-python-project-2cff2a53d310?source=rss-13a2ac43dc86------2)
+- [Day 2️⃣8️⃣ —  Advanced Testing in Python: pytest, Fixtures, and Mocking](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A38%EF%B8%8F%E2%83%A3-advanced-testing-in-python-pytest-fixtures-and-mocking-759d8fea15f7?source=rss-13a2ac43dc86------2)
 - [Day 2️⃣7️⃣ —  Virtual Environments, pip, and Dependency Management — Finally Explained](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A37%EF%B8%8F%E2%83%A3-virtual-environments-pip-and-dependency-management-finally-explained-92072ec50aee?source=rss-13a2ac43dc86------2)
 - [Day 2️⃣6️⃣ — ️ Databases in Python: SQLite, ORM Basics, and Best Practices](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A36%EF%B8%8F%E2%83%A3-%EF%B8%8F-databases-in-python-sqlite-orm-basics-and-best-practices-9fe5d5a7fad7?source=rss-13a2ac43dc86------2)
 - [Day 2️⃣5️⃣ —  Working with APIs in Python: Requests, JSON, and Real Data](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3-working-with-apis-in-python-requests-json-and-real-data-b81118f2c3bf?source=rss-13a2ac43dc86------2)
-- [Day 2️⃣4️⃣ —  Async Python Explained: async, await, and Non-Blocking Code](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-async-python-explained-async-await-and-non-blocking-code-267fe1613791?source=rss-13a2ac43dc86------2)
-- [Test Automation Isn’t Hard — Poor Architecture Makes It Look Hard.](https://skakarh.medium.com/test-automation-isnt-hard-poor-architecture-makes-it-look-hard-8004edc4476c?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
