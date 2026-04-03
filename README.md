@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [SKILLS.md — The File That Turns Your AI Agent into a Real SDET Engineer](https://skakarh.medium.com/skills-md-the-file-that-turns-your-ai-agent-into-a-real-sdet-engineer-354e80d85137?source=rss-13a2ac43dc86------2)
 - [Programmatic SEO with ChatGPT &amp; Cursor](https://skakarh.medium.com/programmatic-seo-with-chatgpt-cursor-e6a3aecc69f6?source=rss-13a2ac43dc86------2)
 - [Standard Deviation + CRT Strategy for Crypto &amp; Forex &lpar;8:30–9:30 High-Probability Setup&rpar;](https://skakarh.medium.com/standard-deviation-crt-strategy-for-crypto-forex-8-30-9-30-high-probability-setup-5e06a7dd6ebd?source=rss-13a2ac43dc86------2)
 - [Day 3️⃣0️⃣ —  You’re Now a Python Developer — What to Build Next &lpar;Career Paths&rpar;](https://skakarh.medium.com/day-3%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-youre-now-a-python-developer-what-to-build-next-career-paths-0832690f2a79?source=rss-13a2ac43dc86------2)
 - [Day 2️⃣9️⃣ —  How to Structure a Production-Ready Python Project](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-how-to-structure-a-production-ready-python-project-2cff2a53d310?source=rss-13a2ac43dc86------2)
-- [Day 2️⃣8️⃣ —  Advanced Testing in Python: pytest, Fixtures, and Mocking](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A38%EF%B8%8F%E2%83%A3-advanced-testing-in-python-pytest-fixtures-and-mocking-759d8fea15f7?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
