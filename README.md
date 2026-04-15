@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [️ Build Your First AI Testing Agent Using Python + Autogen &lpar;Real-World Edition&rpar;](https://skakarh.medium.com/%EF%B8%8F-build-your-first-ai-testing-agent-using-python-autogen-real-world-edition-46105e0d0d2c?source=rss-13a2ac43dc86------2)
 - [SDET in 2026: Dead Role or Evolving Into AI Engineer?](https://skakarh.medium.com/sdet-in-2026-dead-role-or-evolving-into-ai-engineer-2d33159e86a1?source=rss-13a2ac43dc86------2)
 - [From Clicker to Coder — 5 Selenium WebDriver + Python Projects for Elite Test Automation…](https://skakarh.medium.com/from-clicker-to-coder-5-selenium-webdriver-python-projects-that-can-actually-make-you-an-9b72ae2be777?source=rss-13a2ac43dc86------2)
 - [SKILLS.md — The File That Turns Your AI Agent into a Real SDET Engineer](https://skakarh.medium.com/skills-md-the-file-that-turns-your-ai-agent-into-a-real-sdet-engineer-354e80d85137?source=rss-13a2ac43dc86------2)
 - [Day 3️⃣0️⃣ —  You’re Now a Python Developer — What to Build Next &lpar;Career Paths&rpar;](https://skakarh.medium.com/day-3%EF%B8%8F%E2%83%A30%EF%B8%8F%E2%83%A3-youre-now-a-python-developer-what-to-build-next-career-paths-0832690f2a79?source=rss-13a2ac43dc86------2)
-- [Day 2️⃣9️⃣ —  How to Structure a Production-Ready Python Project](https://skakarh.medium.com/day-2%EF%B8%8F%E2%83%A39%EF%B8%8F%E2%83%A3-how-to-structure-a-production-ready-python-project-2cff2a53d310?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
