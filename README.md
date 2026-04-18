@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [AI Won’t Replace Testers — But This Will &lpar;The Real Shift No One Is Talking About&rpar;](https://skakarh.medium.com/ai-wont-replace-testers-but-this-will-the-real-shift-no-one-is-talking-about-b96ec218d6db?source=rss-13a2ac43dc86------2)
 - [Why Most QA Engineers Never Become SDET &lpar;Harsh Truth&rpar;](https://skakarh.medium.com/why-most-qa-engineers-never-become-sdet-harsh-truth-2a4c6bcfbeeb?source=rss-13a2ac43dc86------2)
 - [️ Build Your First AI Testing Agent Using Python + Autogen &lpar;Real-World Edition&rpar;](https://skakarh.medium.com/%EF%B8%8F-build-your-first-ai-testing-agent-using-python-autogen-real-world-edition-46105e0d0d2c?source=rss-13a2ac43dc86------2)
 - [SDET in 2026: Dead Role or Evolving Into AI Engineer?](https://skakarh.medium.com/sdet-in-2026-dead-role-or-evolving-into-ai-engineer-2d33159e86a1?source=rss-13a2ac43dc86------2)
 - [From Clicker to Coder — 5 Selenium WebDriver + Python Projects for Elite Test Automation…](https://skakarh.medium.com/from-clicker-to-coder-5-selenium-webdriver-python-projects-that-can-actually-make-you-an-9b72ae2be777?source=rss-13a2ac43dc86------2)
-- [SKILLS.md — The File That Turns Your AI Agent into a Real SDET Engineer](https://skakarh.medium.com/skills-md-the-file-that-turns-your-ai-agent-into-a-real-sdet-engineer-354e80d85137?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
