@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [️ Selenium + Python + AI: The Modern Automation Stack &lpar;2026 Guide&rpar;](https://skakarh.medium.com/%EF%B8%8F-selenium-python-ai-the-modern-automation-stack-2026-guide-5226939ddc71?source=rss-13a2ac43dc86------2)
 - [How I Reduced Testing Time by 60% Using AI Agents](https://skakarh.medium.com/how-i-reduced-testing-time-by-60-using-ai-agents-62cf331544a3?source=rss-13a2ac43dc86------2)
 - [Automating API Testing with n8n + Google Sheets &lpar;A Smarter QA Workflow&rpar;](https://skakarh.medium.com/automating-api-testing-with-n8n-google-sheets-a-smarter-qa-workflow-4481bb777d6f?source=rss-13a2ac43dc86------2)
 - [AI Won’t Replace Testers — But This Will &lpar;The Real Shift No One Is Talking About&rpar;](https://skakarh.medium.com/ai-wont-replace-testers-but-this-will-the-real-shift-no-one-is-talking-about-b96ec218d6db?source=rss-13a2ac43dc86------2)
 - [Why Most QA Engineers Never Become SDET &lpar;Harsh Truth&rpar;](https://skakarh.medium.com/why-most-qa-engineers-never-become-sdet-harsh-truth-2a4c6bcfbeeb?source=rss-13a2ac43dc86------2)
-- [️ Build Your First AI Testing Agent Using Python + Autogen &lpar;Real-World Edition&rpar;](https://skakarh.medium.com/%EF%B8%8F-build-your-first-ai-testing-agent-using-python-autogen-real-world-edition-46105e0d0d2c?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
