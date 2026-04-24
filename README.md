@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [SKILLS.md Is Just the Beginning — Here’s What Your AI Agent Still Can’t Do &lpar;Complete Guide&rpar;](https://skakarh.medium.com/skills-md-is-just-the-beginning-heres-what-your-ai-agent-still-can-t-do-complete-guide-66459a638ac2?source=rss-13a2ac43dc86------2)
 - [From QA to AI Engineer: The REAL Roadmap Nobody Tells You &lpar;Complete Guide&rpar;](https://skakarh.medium.com/from-qa-to-ai-engineer-the-real-roadmap-nobody-tells-you-complete-guide-9c11306121a1?source=rss-13a2ac43dc86------2)
 - [️ Selenium + Python + AI: The Modern Automation Stack &lpar;2026 Guide&rpar;](https://skakarh.medium.com/%EF%B8%8F-selenium-python-ai-the-modern-automation-stack-2026-guide-5226939ddc71?source=rss-13a2ac43dc86------2)
 - [How I Reduced Testing Time by 60% Using AI Agents](https://skakarh.medium.com/how-i-reduced-testing-time-by-60-using-ai-agents-62cf331544a3?source=rss-13a2ac43dc86------2)
 - [Automating API Testing with n8n + Google Sheets &lpar;A Smarter QA Workflow&rpar;](https://skakarh.medium.com/automating-api-testing-with-n8n-google-sheets-a-smarter-qa-workflow-4481bb777d6f?source=rss-13a2ac43dc86------2)
-- [AI Won’t Replace Testers — But This Will &lpar;The Real Shift No One Is Talking About&rpar;](https://skakarh.medium.com/ai-wont-replace-testers-but-this-will-the-real-shift-no-one-is-talking-about-b96ec218d6db?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
