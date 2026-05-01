@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [I Built an AI Agent That Knows When to Stop — Here’s How &lpar;LangGraph + Real Escalation Design&rpar;](https://skakarh.medium.com/i-built-an-ai-agent-that-knows-when-to-stop-heres-how-langgraph-real-escalation-design-2598e502d6b3?source=rss-13a2ac43dc86------2)
 - [Level Up Your Claude Code with CLAUDE.md](https://skakarh.medium.com/level-up-your-claude-code-with-claude-md-038fa9cf5ebc?source=rss-13a2ac43dc86------2)
 - [SKILLS.md Is Just the Beginning — Here’s What Your AI Agent Still Can’t Do &lpar;Complete Guide&rpar;](https://skakarh.medium.com/skills-md-is-just-the-beginning-heres-what-your-ai-agent-still-can-t-do-complete-guide-66459a638ac2?source=rss-13a2ac43dc86------2)
 - [From QA to AI Engineer: The REAL Roadmap Nobody Tells You &lpar;Complete Guide&rpar;](https://skakarh.medium.com/from-qa-to-ai-engineer-the-real-roadmap-nobody-tells-you-complete-guide-9c11306121a1?source=rss-13a2ac43dc86------2)
 - [️ Selenium + Python + AI: The Modern Automation Stack &lpar;2026 Guide&rpar;](https://skakarh.medium.com/%EF%B8%8F-selenium-python-ai-the-modern-automation-stack-2026-guide-5226939ddc71?source=rss-13a2ac43dc86------2)
-- [How I Reduced Testing Time by 60% Using AI Agents](https://skakarh.medium.com/how-i-reduced-testing-time-by-60-using-ai-agents-62cf331544a3?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
