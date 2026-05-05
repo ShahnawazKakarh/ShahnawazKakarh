@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 3: MCP vs REST APIs vs Plugins](https://skakarh.medium.com/day-3-mcp-vs-rest-apis-vs-plugins-50380156b68c?source=rss-13a2ac43dc86------2)
 - [Build a Memory System for Your AI Testing Agent &lpar;So It Stops Forgetting Everything&rpar;](https://skakarh.medium.com/build-a-memory-system-for-your-ai-testing-agent-so-it-stops-forgetting-everything-ac694e2a22dd?source=rss-13a2ac43dc86------2)
 - [Day 2: Why MCP Matters for AI Agents](https://skakarh.medium.com/day-2-why-mcp-matters-for-ai-agents-f54275447c80?source=rss-13a2ac43dc86------2)
 - [Day 1: What is MCP?](https://skakarh.medium.com/day-1-what-is-mcp-45cd34f88547?source=rss-13a2ac43dc86------2)
 - [I Built an AI Agent That Knows When to Stop — Here’s How &lpar;LangGraph + Real Escalation Design&rpar;](https://skakarh.medium.com/i-built-an-ai-agent-that-knows-when-to-stop-heres-how-langgraph-real-escalation-design-2598e502d6b3?source=rss-13a2ac43dc86------2)
-- [Level Up Your Claude Code with CLAUDE.md](https://skakarh.medium.com/level-up-your-claude-code-with-claude-md-038fa9cf5ebc?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
