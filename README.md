@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Day 4: MCP Architecture Deep Dive](https://medium.com/qapulse-by-sk/day-4-mcp-architecture-deep-dive-a959b3356730?source=rss-13a2ac43dc86------2)
 - [Stop Wasting Days Setting Up Cypress &lpar;Use This Production-Grade Boilerplate Instead&rpar;](https://medium.com/qapulse-by-sk/stop-wasting-days-setting-up-cypress-use-this-production-grade-boilerplate-instead-46240fbebc6a?source=rss-13a2ac43dc86------2)
 - [Stop Starting Playwright Projects From Scratch — Use Boilerplate by QAPulse by SK](https://medium.com/qapulse-by-sk/stop-starting-playwright-projects-from-scratch-use-boilerplate-by-qapulse-by-sk-7b9caacbb810?source=rss-13a2ac43dc86------2)
 - [Day 3: MCP vs REST APIs vs Plugins](https://medium.com/qapulse-by-sk/day-3-mcp-vs-rest-apis-vs-plugins-50380156b68c?source=rss-13a2ac43dc86------2)
 - [Build a Memory System for Your AI Testing Agent &lpar;So It Stops Forgetting Everything&rpar;](https://skakarh.medium.com/build-a-memory-system-for-your-ai-testing-agent-so-it-stops-forgetting-everything-ac694e2a22dd?source=rss-13a2ac43dc86------2)
-- [Day 2: Why MCP Matters for AI Agents](https://medium.com/qapulse-by-sk/day-2-why-mcp-matters-for-ai-agents-f54275447c80?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
