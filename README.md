@@ -32,7 +32,7 @@
 
 🎯 Dedicated to **software quality assurance, test automation, and backend scripting**, with hands-on experience in **Cypress, Selenium, Playwright, Python, Java, TypeScript, JavaScript, and API testing**. Currently expanding expertise in **Python development, automation, and cloud-based testing solutions**.  
 
-📫 **Reach me at:** [wwww.skakarh.com](https://wwww.skakarh.com)  
+📫 **Reach me at:** [wwww.skakarh.com](https://www.skakarh.com)  
  
 
 
