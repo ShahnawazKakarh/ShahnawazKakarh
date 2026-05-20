@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Stop Writing Test Cases — Start Designing Test Intelligence Systems](https://medium.com/qapulse-by-sk/stop-writing-test-cases-start-designing-test-intelligence-systems-beb64a68edd3?source=rss-13a2ac43dc86------2)
 - [I Built the QA Tools I Wish I Had as an SDET](https://medium.com/qapulse-by-sk/i-built-the-qa-tools-i-wish-i-had-as-an-sdet-9c9d6ec714db?source=rss-13a2ac43dc86------2)
 - [Your Automation Framework Is Lying to You &lpar;And You Don’t Even Know It&rpar;](https://medium.com/qapulse-by-sk/your-automation-framework-is-lying-to-you-and-you-dont-even-know-it-7e5fc0cdf81f?source=rss-13a2ac43dc86------2)
 - [Day 4: MCP Architecture Deep Dive](https://medium.com/qapulse-by-sk/day-4-mcp-architecture-deep-dive-a959b3356730?source=rss-13a2ac43dc86------2)
 - [Stop Wasting Days Setting Up Cypress &lpar;Use This Production-Grade Boilerplate Instead&rpar;](https://medium.com/qapulse-by-sk/stop-wasting-days-setting-up-cypress-use-this-production-grade-boilerplate-instead-46240fbebc6a?source=rss-13a2ac43dc86------2)
-- [Stop Starting Playwright Projects From Scratch — Use Boilerplate by QAPulse by SK](https://medium.com/qapulse-by-sk/stop-starting-playwright-projects-from-scratch-use-boilerplate-by-qapulse-by-sk-7b9caacbb810?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
