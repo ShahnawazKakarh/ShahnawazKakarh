@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [7 Brutal Execution Systems Every SDET Needs in 2026](https://medium.com/qapulse-by-sk/7-brutal-execution-systems-every-sdet-needs-in-2026-bc59ac1e63f1?source=rss-13a2ac43dc86------2)
 - [Test Graphs in 2026 — Why Smart SDETs Are Replacing Traditional Test Cases](https://medium.com/qapulse-by-sk/test-graphs-in-2026-why-smart-sdets-are-replacing-traditional-test-cases-b8da483d6329?source=rss-13a2ac43dc86------2)
 - [How I Reduced Flaky Tests by 40% Using Self-Healing Locators + AI](https://medium.com/qapulse-by-sk/how-i-reduced-flaky-tests-by-40-using-self-healing-locators-ai-dcd1c246a0df?source=rss-13a2ac43dc86------2)
 - [Stop Writing Test Cases — Start Designing Test Intelligence Systems](https://medium.com/qapulse-by-sk/stop-writing-test-cases-start-designing-test-intelligence-systems-beb64a68edd3?source=rss-13a2ac43dc86------2)
 - [I Built the QA Tools I Wish I Had as an SDET](https://medium.com/qapulse-by-sk/i-built-the-qa-tools-i-wish-i-had-as-an-sdet-9c9d6ec714db?source=rss-13a2ac43dc86------2)
-- [Your Automation Framework Is Lying to You &lpar;And You Don’t Even Know It&rpar;](https://medium.com/qapulse-by-sk/your-automation-framework-is-lying-to-you-and-you-dont-even-know-it-7e5fc0cdf81f?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
