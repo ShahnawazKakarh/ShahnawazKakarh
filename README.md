@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [7 Brutal Reasons Prompt Engineering is Dying in 2026](https://medium.com/qapulse-by-sk/7-brutal-reasons-prompt-engineering-is-dying-in-2026-9c699d9ab2e6?source=rss-13a2ac43dc86------2)
+- [5 Powerful AI Test Failure Analyzer Techniques Every SDET Should Learn](https://medium.com/qapulse-by-sk/5-powerful-ai-test-failure-analyzer-techniques-every-sdet-should-learn-c437bad102a5?source=rss-13a2ac43dc86------2)
 - [7 Dangerous Automation Mistakes Most QA Engineers Still Make](https://medium.com/qapulse-by-sk/7-dangerous-automation-mistakes-most-qa-engineers-still-make-a3a0fbe5d265?source=rss-13a2ac43dc86------2)
 - [7 Brutal Execution Systems Every SDET Needs in 2026](https://medium.com/qapulse-by-sk/7-brutal-execution-systems-every-sdet-needs-in-2026-bc59ac1e63f1?source=rss-13a2ac43dc86------2)
 - [Test Graphs in 2026 — Why Smart SDETs Are Replacing Traditional Test Cases](https://medium.com/qapulse-by-sk/test-graphs-in-2026-why-smart-sdets-are-replacing-traditional-test-cases-b8da483d6329?source=rss-13a2ac43dc86------2)
-- [How I Reduced Flaky Tests by 40% Using Self-Healing Locators + AI](https://medium.com/qapulse-by-sk/how-i-reduced-flaky-tests-by-40-using-self-healing-locators-ai-dcd1c246a0df?source=rss-13a2ac43dc86------2)
-- [Stop Writing Test Cases — Start Designing Test Intelligence Systems](https://medium.com/qapulse-by-sk/stop-writing-test-cases-start-designing-test-intelligence-systems-beb64a68edd3?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
