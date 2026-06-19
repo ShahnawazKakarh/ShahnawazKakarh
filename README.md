@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [7 Powerful AI Agent Workflows Every Modern SDET Should Learn](https://medium.com/qapulse-by-sk/7-powerful-ai-agent-workflows-every-modern-sdet-should-learn-5245f61fc133?source=rss-13a2ac43dc86------2)
 - [5 Dangerous AI Testing Mistakes That Will Break Your QA Career](https://medium.com/qapulse-by-sk/5-dangerous-ai-testing-mistakes-that-will-break-your-qa-career-662852ff2c88?source=rss-13a2ac43dc86------2)
 - [5 Brutal Signs Your Automation Framework is Slowing Down Your Team](https://medium.com/qapulse-by-sk/5-brutal-signs-your-automation-framework-is-slowing-down-your-team-2ae7c1d563b3?source=rss-13a2ac43dc86------2)
 - [7 Brutal Reasons Prompt Engineering is Dying in 2026](https://medium.com/qapulse-by-sk/7-brutal-reasons-prompt-engineering-is-dying-in-2026-9c699d9ab2e6?source=rss-13a2ac43dc86------2)
 - [5 Powerful AI Test Failure Analyzer Techniques Every SDET Should Learn](https://medium.com/qapulse-by-sk/5-powerful-ai-test-failure-analyzer-techniques-every-sdet-should-learn-c437bad102a5?source=rss-13a2ac43dc86------2)
-- [7 Dangerous Automation Mistakes Most QA Engineers Still Make](https://medium.com/qapulse-by-sk/7-dangerous-automation-mistakes-most-qa-engineers-still-make-a3a0fbe5d265?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
