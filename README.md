@@ -130,10 +130,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Build an AI-Powered Playwright Failure Analyzer Using LangChain](https://medium.com/qapulse-by-sk/build-an-ai-powered-playwright-failure-analyzer-using-langchain-b1a573fd7269?source=rss-13a2ac43dc86------2)
 - [Most QA Engineers Are Learning the Wrong Skills in 2026](https://medium.com/qapulse-by-sk/most-qa-engineers-are-learning-the-wrong-skills-in-2026-b4ed6ed32be8?source=rss-13a2ac43dc86------2)
 - [9 Brutal Habits Destroying Software Testers in 2026](https://medium.com/qapulse-by-sk/9-brutal-habits-destroying-software-testers-in-2026-f49633019007?source=rss-13a2ac43dc86------2)
 - [7 Powerful AI Agent Workflows Every Modern SDET Should Learn](https://medium.com/qapulse-by-sk/7-powerful-ai-agent-workflows-every-modern-sdet-should-learn-5245f61fc133?source=rss-13a2ac43dc86------2)
 - [5 Dangerous AI Testing Mistakes That Will Break Your QA Career](https://medium.com/qapulse-by-sk/5-dangerous-ai-testing-mistakes-that-will-break-your-qa-career-662852ff2c88?source=rss-13a2ac43dc86------2)
-- [5 Brutal Signs Your Automation Framework is Slowing Down Your Team](https://medium.com/qapulse-by-sk/5-brutal-signs-your-automation-framework-is-slowing-down-your-team-2ae7c1d563b3?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
