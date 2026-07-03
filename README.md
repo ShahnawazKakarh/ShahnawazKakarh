@@ -106,49 +106,40 @@
 
 ## 📈 GitHub Stats
 
-### 📈 Statistics
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ShahnawazKakarh&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=2563EB&currStreakLabel=60A5FA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
-
-<br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahnawazKakarh&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahnawazKakarh&theme=github_dark"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahnawazKakarh&theme=github_dark"/>
-
----
-
-<div align="center">
-
-### 🔥 GitHub Contribution Chart
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <img width="80%" src="https://streak-stats.demolab.com?user=ShahnawazKakarh&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=2563EB&currStreakLabel=60A5FA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
 </p>
 
-</div>
+<p align="center">
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahnawazKakarh&theme=github_dark"/>
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahnawazKakarh&theme=github_dark"/>
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahnawazKakarh&theme=github_dark"/>
+</p>
 
 <br>
 
-<div align="center">
+## 🟦 GitHub Contribution Graph
 
-<img src="https://komarev.com/ghpvc/?username=ShahnawazKakarh&label=PROFILE+VIEWS&color=0A66FF&style=for-the-badge"/>
+<p align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/ShahnawazKakarh/ShahnawazKakarh/output/pacman-contribution-graph-dark.svg"/>
+</p>
 
-</div>
+<br>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShahnawazKakarh&label=PROFILE+VIEWS&color=0A66FF&style=for-the-badge"/>
+</p>
 
-### ⚡ Code • Test • Automate • Innovate ⚡
-
-</div>
+<p align="center">
+  <b>⚡ Code • Test • Automate • Innovate ⚡</b>
+</p>
 
 <hr>
 
 ## 🌱 Contribution Graph
 [![Shahnawaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahnawazKakarh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <hr>
 
