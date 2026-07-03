@@ -106,17 +106,43 @@
 
 ## 📈 GitHub Stats
 
+### 📈 Statistics
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ShahnawazKakarh&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=2563EB&currStreakLabel=60A5FA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
+
+<br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahnawazKakarh&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahnawazKakarh&theme=github_dark"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahnawazKakarh&theme=github_dark"/>
+
+---
+
+<div align="center">
+
+### 🔥 GitHub Contribution Chart
+
 <p align="center">
-  <a href="https://github.com/ShahnawazKakarh">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShahnawazKakarh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shahnawaz's GitHub stats" height="180px"/>
-  </a>
-  <a href="https://github.com/ShahnawazKakarh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahnawazKakarh&theme=radical&hide_border=true" alt="GitHub Streak" height="180px"/>
-  </a>
-  <a href="https://github.com/ShahnawazKakarh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahnawazKakarh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
 </p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShahnawazKakarh&label=PROFILE+VIEWS&color=0A66FF&style=for-the-badge"/>
+
+</div>
+
+<div align="center">
+
+### ⚡ Code • Test • Automate • Innovate ⚡
+
+</div>
 
 <hr>
 
