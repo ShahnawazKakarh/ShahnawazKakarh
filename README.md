@@ -46,6 +46,7 @@
 ### 💻 Programming Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" /> &emsp;
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23007ACC.svg?logo=fastapi&logoColor=white" /> &emsp;
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white" /> &emsp;
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" /> &emsp;
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" /> &emsp;
