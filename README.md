@@ -13,45 +13,11 @@
 	</a>
 </p>
 
-<table>
-<tr>
-<td width="60">
+<div align="center">
 
-🧠
+⚙️ **Software Engineering**   🤖 **AI Research**   🧠 **Agentic AI**   🚀 **Intelligent Automation**
 
-</td>
-<td>
-
-**Building Intelligent Systems with AI, Research & Engineering**
-
-</td>
-</tr>
-
-<tr>
-<td width="60">
-
-🌐
-
-</td>
-<td>
-
-**Founder, QAPulse by SK** &nbsp;|&nbsp; **https://www.skakarh.com**
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-
-⚙️ <strong>Software Engineering</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🤖 <strong>AI Research</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🧠 <strong>Agentic AI</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🚀 <strong>Intelligent Automation</strong>
-
-</p>
+</div>
 
 <hr>
 
@@ -59,13 +25,21 @@
 
 <picture> <img align="right" src="https://github.com/ShahnawazKakarh/ShahnawazKakarh/blob/main/programming.gif" width = 250px></picture>
 
-🔭 **Currently working with:** Python, JavaScript  
+<p style="text-align: justify;">
+🔭 **Software Engineer and Applied AI Researcher with over 11 years of end-to-end experience across the full Software Development Life Cycle including architecture, backend development, distributed systems, intelligent automation, system integration, and large-scale enterprise delivery. Specialised in designing and engineering production-grade backend services and RESTful APIs in Python (Flask, FastAPI, Django, SQLAlchemy, Microservices) on cloud-native infrastructure (AWS, Docker, Jenkins, Elasticsearch).**
 
-🌱 **Learning & implementing now-a-days:** Statistics, Machine Learning, Artificial Intelligence, Deep Learning, SQL Mastery, which will make me "Data Scientist" in the end. 
+🌱 **Strong, demonstrated research orientation in Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models, with multiple publications (DOI-indexed) spanning medical imaging, speech emotion recognition, cross-lingual transfer learning, and natural language understanding. Comfortable moving fluently between engineering and research translating empirical findings into deployable systems, and translating production constraints into well-scoped research questions.**
 
-🧑‍💻 **Passionate about:** Designing and implementing robust Test Automation Frameworks  
+🧑‍💻 **Hands-on with the modern AI stack PyTorch, TensorFlow, Hugging Face Transformers, DeepSpeed, LangChain, Scikit-learn, XGBoost, vector databases, and OpenAI/Gemini APIs applied to Retrieval-Augmented Generation (RAG), Agentic AI systems, autonomous testing, computer vision, and speech processing. Founder of the QAPulse by SK open-source ecosystem, which applies LLMs and intelligent automation to software quality engineering.**
 
-🎯 Dedicated to **software quality assurance, test automation, and backend scripting**, with hands-on experience in **Cypress, Selenium, Playwright, Python, Java, TypeScript, JavaScript, and API testing**. Currently expanding expertise in **Python development, automation, and cloud-based testing solutions**.  
+🎯 **Industry experience spans Enterprise Resource Planning (ERP), Wireless & Telecommunications, Travel & Transportation Systems, E-Commerce and Food Delivery Platforms, Financial Services and FinTech, Payment Processing, Visa Card Integration, EMV Contactless Technologies, API Ecosystems, and AI-driven Intelligent Automation. Delivered enterprise solutions in partnership with Mastercard, HSBC, Al-Futtaim, Aldar, and Dubai Police.**
+
+💻 **Research interests include Large Language Models, Agentic AI, Retrieval-Augmented Generation, Selective Prediction & Uncertainty Quantification, Cross-Lingual & Low-Resource NLP, Speech Processing, Human-Computer Interaction, Intelligent Test Automation, Cloud Computing, Distributed Systems, and Data-Driven Decision Intelligence. Seeking to deepen formal research training and contribute to advanced research in AI and intelligent software systems.**
+
+🌐 **Founder, QAPulse by SK** &nbsp;|&nbsp; **https://www.skakarh.com**
+
+</p>
+<hr>
  
 # 🛠 Skills
 
@@ -103,6 +77,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white" /> &emsp;
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white" />
 </p>
+<hr>
 
 # 📈 GitHub Stats
 
