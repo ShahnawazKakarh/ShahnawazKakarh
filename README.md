@@ -38,6 +38,48 @@
 
 <hr>
 
+<p align="center">
+
+⚙️ <strong>Software Engineering</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 <strong>AI Research</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 <strong>Agentic AI</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🚀 <strong>Intelligent Automation</strong>
+
+</p>
+
+<table>
+<tr>
+<td width="60">
+
+🧠
+
+</td>
+<td>
+
+**Building Intelligent Systems with AI, Research & Engineering**
+
+</td>
+</tr>
+
+<tr>
+<td width="60">
+
+🌐
+
+</td>
+<td>
+
+**Founder, QAPulse by SK** &nbsp;|&nbsp; **https://www.skakarh.com**
+
+</td>
+</tr>
+</table>
+
+<hr>
+
 ## 🛠 Skills
 
 ## 💻 Programming Languages
