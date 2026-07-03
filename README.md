@@ -129,7 +129,6 @@
 <p align="center">
   <b>⚡ Code • Test • Automate • Innovate ⚡</b>
 </p>
-<hr>
 
 <hr>
 
