@@ -71,7 +71,7 @@
  
 ## 🛠 Skills
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" /> &emsp;
   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=openjdk&logoColor=white" /> &emsp;
@@ -80,7 +80,7 @@
 </p>
 
 
-## 🧪 Automation & Testing
+### 🧪 Automation & Testing
 <p>
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-%2317202C.svg?logo=cypress&logoColor=white" /> &emsp;
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A.svg?logo=selenium&logoColor=white" /> &emsp;
@@ -89,7 +89,7 @@
 </p>
 
 
-## 🌐 Web & UI Development
+### 🌐 Web & UI Development
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" /> &emsp;
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" /> &emsp;
@@ -97,7 +97,7 @@
 </p>
 
 
-## ☁ Tools & Cloud
+### ☁ Tools & Cloud
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white" /> &emsp;
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white" /> &emsp;
@@ -127,8 +127,6 @@
 ### ⚡ Fun Fact
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
-<hr>
 
 ## 📈 GitHub Stats
 
