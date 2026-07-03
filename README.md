@@ -106,8 +106,6 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Statistics
-
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=ShahnawazKakarh&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=2563EB&currStreakLabel=60A5FA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
 </p>
@@ -127,10 +125,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShahnawazKakarh&label=PROFILE+VIEWS&color=0A66FF&style=for-the-badge"/>
-</p>
 
 <p align="center">
   <b>⚡ Code • Test • Automate • Innovate ⚡</b>
