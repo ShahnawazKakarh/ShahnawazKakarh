@@ -13,31 +13,6 @@
 	</a>
 </p>
 
-<hr>
-
-💻 **QA Automation Engineer | SDET | Python Developer**  
-📍 Based in Lahore, Pakistan  
-
-<hr>
-
-## 👨‍💻 About Me
-
-<picture> <img align="right" src="https://github.com/ShahnawazKakarh/ShahnawazKakarh/blob/main/programming.gif" width = 250px></picture>
-
-🔭 **Currently working with:** Python, JavaScript  
-
-🌱 **Learning & implementing now-a-days:** Statistics, Machine Learning, Artificial Intelligence, Deep Learning, SQL Mastery, which will make me "Data Scientist" in the end. 
-
-🧑‍💻 **Passionate about:** Designing and implementing robust Test Automation Frameworks  
-
-🎯 Dedicated to **software quality assurance, test automation, and backend scripting**, with hands-on experience in **Cypress, Selenium, Playwright, Python, Java, TypeScript, JavaScript, and API testing**. Currently expanding expertise in **Python development, automation, and cloud-based testing solutions**.  
-
-📫 **Reach me at:** [www.skakarh.com](https://www.skakarh.com)  
- 
-
-
-<hr>
-
 <p align="center">
 
 ⚙️ <strong>Software Engineering</strong>
@@ -80,6 +55,20 @@
 
 <hr>
 
+## 👨‍💻 About Me
+
+<picture> <img align="right" src="https://github.com/ShahnawazKakarh/ShahnawazKakarh/blob/main/programming.gif" width = 250px></picture>
+
+🔭 **Currently working with:** Python, JavaScript  
+
+🌱 **Learning & implementing now-a-days:** Statistics, Machine Learning, Artificial Intelligence, Deep Learning, SQL Mastery, which will make me "Data Scientist" in the end. 
+
+🧑‍💻 **Passionate about:** Designing and implementing robust Test Automation Frameworks  
+
+🎯 Dedicated to **software quality assurance, test automation, and backend scripting**, with hands-on experience in **Cypress, Selenium, Playwright, Python, Java, TypeScript, JavaScript, and API testing**. Currently expanding expertise in **Python development, automation, and cloud-based testing solutions**.  
+
+📫 **Reach me at:** [www.skakarh.com](https://www.skakarh.com)  
+ 
 ## 🛠 Skills
 
 ## 💻 Programming Languages
@@ -90,7 +79,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white" /> &emsp;
 </p>
 
-<hr>
 
 ## 🧪 Automation & Testing
 <p>
@@ -100,7 +88,6 @@
   <img alt="PyTest" src="https://img.shields.io/badge/PyTest-%230A9EDC.svg?logo=python&logoColor=white" />
 </p>
 
-<hr>
 
 ## 🌐 Web & UI Development
 <p>
@@ -109,7 +96,6 @@
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black" />
 </p>
 
-<hr>
 
 ## ☁ Tools & Cloud
 <p>
@@ -120,7 +106,6 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white" />
 </p>
 
-<hr>
 
 ## 📫 Connect with me
 <p align="left">
@@ -138,7 +123,6 @@
   </a>
 </p>
 
-<hr>
 
 ### ⚡ Fun Fact
 
