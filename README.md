@@ -36,7 +36,7 @@
 
 💻 **Research interests include Large Language Models, Agentic AI, Retrieval-Augmented Generation, Selective Prediction & Uncertainty Quantification, Cross-Lingual & Low-Resource NLP, Speech Processing, Human-Computer Interaction, Intelligent Test Automation, Cloud Computing, Distributed Systems, and Data-Driven Decision Intelligence. Seeking to deepen formal research training and contribute to advanced research in AI and intelligent software systems.**
 
-🌐 **Founder, QAPulse by SK** &nbsp;|&nbsp; **https://www.skakarh.com**
+🌐 **Founder, QAPulse by SK** &nbsp;|&nbsp; **https://www.skakarh.com** , **https://github.com/QAPulse-by-SK**
 
 </p>
 <hr>
