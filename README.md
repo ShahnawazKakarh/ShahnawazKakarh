@@ -55,7 +55,7 @@
 
 <hr>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <picture> <img align="right" src="https://github.com/ShahnawazKakarh/ShahnawazKakarh/blob/main/programming.gif" width = 250px></picture>
 
@@ -66,10 +66,8 @@
 🧑‍💻 **Passionate about:** Designing and implementing robust Test Automation Frameworks  
 
 🎯 Dedicated to **software quality assurance, test automation, and backend scripting**, with hands-on experience in **Cypress, Selenium, Playwright, Python, Java, TypeScript, JavaScript, and API testing**. Currently expanding expertise in **Python development, automation, and cloud-based testing solutions**.  
-
-📫 **Reach me at:** [www.skakarh.com](https://www.skakarh.com)  
  
-## 🛠 Skills
+# 🛠 Skills
 
 ### 💻 Programming Languages
 <p>
@@ -106,6 +104,32 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white" />
 </p>
 
+# 📈 GitHub Stats
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=ShahnawazKakarh&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=2563EB&currStreakLabel=60A5FA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
+</p>
+
+<p align="center">
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahnawazKakarh&theme=github_dark"/>
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahnawazKakarh&theme=github_dark"/>
+  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahnawazKakarh&theme=github_dark"/>
+</p>
+
+# 🌱 Contribution Graph
+
+<p align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/ShahnawazKakarh/ShahnawazKakarh/output/pacman-contribution-graph-dark.svg"/>
+</p>
+
+<br>
+
+<p align="center">
+  <b>⚡ Code • Test • Automate • Innovate ⚡</b>
+</p>
+
+## ⚡ Fun Fact
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 ## 📫 Connect with me
 <p align="left">
@@ -121,37 +145,6 @@
   <a href="mailto:shahnawaz.jrw@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
   </a>
-</p>
-
-
-### ⚡ Fun Fact
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=ShahnawazKakarh&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=2563EB&currStreakLabel=60A5FA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
-</p>
-
-<p align="center">
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahnawazKakarh&theme=github_dark"/>
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahnawazKakarh&theme=github_dark"/>
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahnawazKakarh&theme=github_dark"/>
-</p>
-
-<br>
-
-## 🌱 Contribution Graph
-
-<p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/ShahnawazKakarh/ShahnawazKakarh/output/pacman-contribution-graph-dark.svg"/>
-</p>
-
-<br>
-
-<p align="center">
-  <b>⚡ Code • Test • Automate • Innovate ⚡</b>
 </p>
 
 <hr>
