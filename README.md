@@ -13,18 +13,6 @@
 	</a>
 </p>
 
-<p align="center">
-
-⚙️ <strong>Software Engineering</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🤖 <strong>AI Research</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🧠 <strong>Agentic AI</strong>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-🚀 <strong>Intelligent Automation</strong>
-
-</p>
-
 <table>
 <tr>
 <td width="60">
@@ -52,6 +40,18 @@
 </td>
 </tr>
 </table>
+
+<p align="center">
+
+⚙️ <strong>Software Engineering</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 <strong>AI Research</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 <strong>Agentic AI</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🚀 <strong>Intelligent Automation</strong>
+
+</p>
 
 <hr>
 
