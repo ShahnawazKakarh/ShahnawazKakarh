@@ -83,13 +83,14 @@
 # 📈 GitHub Stats
 
 <p align="center">
+  <a href="https://github.com/ShahnawazKakarh">
   <img width="80%" src="https://streak-stats.demolab.com?user=ShahnawazKakarh&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=2563EB&currStreakLabel=60A5FA&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
 </p>
 
 <p align="center">
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahnawazKakarh&theme=github_dark"/>
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahnawazKakarh&theme=github_dark"/>
-  <img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahnawazKakarh&theme=github_dark"/>
+  <a href="https://github.com/ShahnawazKakarh"><img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahnawazKakarh&theme=github_dark"/>
+  <a href="https://github.com/ShahnawazKakarh"><img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahnawazKakarh&theme=github_dark"/>
+  <a href="https://github.com/ShahnawazKakarh"><img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahnawazKakarh&theme=github_dark"/>
 </p>
 
 # 🌱 Contribution Graph
