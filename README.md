@@ -118,7 +118,7 @@
 
 <br>
 
-## 🟦 GitHub Contribution Graph
+## 🌱 Contribution Graph
 
 <p align="center">
   <img width="95%" src="https://raw.githubusercontent.com/ShahnawazKakarh/ShahnawazKakarh/output/pacman-contribution-graph-dark.svg"/>
@@ -129,11 +129,7 @@
 <p align="center">
   <b>⚡ Code • Test • Automate • Innovate ⚡</b>
 </p>
-
 <hr>
-
-## 🌱 Contribution Graph
-[![Shahnawaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShahnawazKakarh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
