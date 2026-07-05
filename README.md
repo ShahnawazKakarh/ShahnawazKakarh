@@ -26,7 +26,8 @@
 <picture> <img align="right" src="https://github.com/ShahnawazKakarh/ShahnawazKakarh/blob/main/programming.gif" width = 250px></picture>
 
 <p style="text-align: justify;">
-🔭 **Software Engineer and Applied AI Researcher with over 11 years of end-to-end experience across the full Software Development Life Cycle including architecture, backend development, distributed systems, intelligent automation, system integration, and large-scale enterprise delivery. Specialised in designing and engineering production-grade backend services and RESTful APIs in Python (Flask, FastAPI, Django, SQLAlchemy, Microservices) on cloud-native infrastructure (AWS, Docker, Jenkins, Elasticsearch). **
+	
+🔭 **Software Engineer and Applied AI Researcher with over 11 years of end-to-end experience across the full Software Development Life Cycle including architecture, backend development, distributed systems, intelligent automation, system integration, and large-scale enterprise delivery. Specialised in designing and engineering production-grade backend services and RESTful APIs in Python (Flask, FastAPI, Django, SQLAlchemy, Microservices) on cloud-native infrastructure (AWS, Docker, Jenkins, Elasticsearch).**
 
 🌱 **Strong, demonstrated research orientation in Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models, with multiple publications (DOI-indexed) spanning medical imaging, speech emotion recognition, cross-lingual transfer learning, and natural language understanding. Comfortable moving fluently between engineering and research translating empirical findings into deployable systems, and translating production constraints into well-scoped research questions.**
 
