@@ -132,10 +132,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Complete Guide: Features, Workflows, Best Practices &amp; Real-World Use Cases &lpar;2026&rpar;](https://medium.com/qapulse-by-sk/claude-code-complete-guide-features-workflows-best-practices-real-world-use-cases-2026-6a881e6a38d9?source=rss-13a2ac43dc86------2)
 - [Playwright vs Selenium Grid for Enterprise-Scale Testing in 2026](https://medium.com/qapulse-by-sk/playwright-vs-selenium-grid-for-enterprise-scale-testing-in-2026-045111c0ef2d?source=rss-13a2ac43dc86------2)
 - [Playwright vs Cypress in 2026: Which Tool Actually Wins?](https://medium.com/qapulse-by-sk/playwright-vs-cypress-in-2026-which-tool-actually-wins-f639aefc12ce?source=rss-13a2ac43dc86------2)
 - [The Most Dangerous QA Engineer in 2026 Is the Comfortable One](https://medium.com/qapulse-by-sk/the-most-dangerous-qa-engineer-in-2026-is-the-comfortable-one-4b4662f56510?source=rss-13a2ac43dc86------2)
 - [The Future of QA is Smaller Teams With Smarter Systems](https://medium.com/qapulse-by-sk/the-future-of-qa-is-smaller-teams-with-smarter-systems-68074284cba3?source=rss-13a2ac43dc86------2)
-- [Why Smart QA Engineers are Quietly Becoming AI Workflow Architects](https://medium.com/qapulse-by-sk/why-smart-qa-engineers-are-quietly-becoming-ai-workflow-architects-5b002c6fe19e?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
