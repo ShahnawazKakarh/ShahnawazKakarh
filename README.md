@@ -132,10 +132,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Human in the Loop Testing: 6 Smart Playwright Strategies for AI-Assisted QA](https://skakarh.medium.com/human-in-the-loop-testing-6-smart-playwright-strategies-for-ai-assisted-qa-cbfb22ab429f?source=rss-13a2ac43dc86------2)
 - [Postman AI: Introduction to Postman AI and the Future of AI-Powered API Development](https://skakarh.medium.com/postman-ai-introduction-to-postman-ai-and-the-future-of-ai-powered-api-development-241bcd03f234?source=rss-13a2ac43dc86------2)
 - [Cursor AI: The Complete Beginner’s Guide to AI-Powered Code Editor &lpar;2026&rpar;](https://medium.com/qapulse-by-sk/cursor-ai-the-complete-beginners-guide-to-ai-powered-code-editor-2026-d0d60260746b?source=rss-13a2ac43dc86------2)
 - [Claude Code Prompts: How to Write Better Prompts for High-Quality Code Generation](https://medium.com/qapulse-by-sk/claude-code-prompts-how-to-write-better-prompts-for-high-quality-code-generation-9a44926fd678?source=rss-13a2ac43dc86------2)
 - [Claude Code Complete Guide: Features, Workflows, Best Practices &amp; Real-World Use Cases &lpar;2026&rpar;](https://medium.com/qapulse-by-sk/claude-code-complete-guide-features-workflows-best-practices-real-world-use-cases-2026-6a881e6a38d9?source=rss-13a2ac43dc86------2)
-- [Playwright vs Selenium Grid for Enterprise-Scale Testing in 2026](https://medium.com/qapulse-by-sk/playwright-vs-selenium-grid-for-enterprise-scale-testing-in-2026-045111c0ef2d?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
