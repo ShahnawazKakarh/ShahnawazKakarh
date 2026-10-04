@@ -132,10 +132,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
+- [Playwright Fixtures and POM: 6 Scalable Architecture Secrets](https://skakarh.medium.com/playwright-fixtures-and-pom-6-scalable-architecture-secrets-d92e72f74012?source=rss-13a2ac43dc86------2)
 - [Playwright vs Selenium vs Cypress: 5 Best Architecture Secrets](https://medium.com/qapulse-by-sk/playwright-vs-selenium-vs-cypress-5-best-architecture-secrets-a794c22889a5?source=rss-13a2ac43dc86------2)
 - [XCUITest iOS Testing: What it is and Why it Matters](https://skakarh.medium.com/xcuitest-ios-testing-what-it-is-and-why-it-matters-f5762f9f9dcf?source=rss-13a2ac43dc86------2)
 - [Human in the Loop Testing: 6 Smart Playwright Strategies for AI-Assisted QA](https://skakarh.medium.com/human-in-the-loop-testing-6-smart-playwright-strategies-for-ai-assisted-qa-cbfb22ab429f?source=rss-13a2ac43dc86------2)
 - [Postman AI: Introduction to Postman AI and the Future of AI-Powered API Development](https://skakarh.medium.com/postman-ai-introduction-to-postman-ai-and-the-future-of-ai-powered-api-development-241bcd03f234?source=rss-13a2ac43dc86------2)
-- [Cursor AI: The Complete Beginner’s Guide to AI-Powered Code Editor &lpar;2026&rpar;](https://medium.com/qapulse-by-sk/cursor-ai-the-complete-beginners-guide-to-ai-powered-code-editor-2026-d0d60260746b?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
