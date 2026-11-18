@@ -132,10 +132,10 @@
 
 Here are some of my recent blogs where I share my experiences, tutorials, and learnings in software testing, automation, and development:
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Test Creation vs AI Test Generation: 7 Best Secrets](https://skakarh.medium.com/agentic-test-creation-vs-ai-test-generation-7-best-secrets-487b7115b996?source=rss-13a2ac43dc86------2)
+- [Agentic Test Creation vs AI Test Generation: 7 Best Secrets](https://medium.com/qapulse-by-sk/agentic-test-creation-vs-ai-test-generation-7-best-secrets-487b7115b996?source=rss-13a2ac43dc86------2)
 - [PyTest Fixture Masterclass: 7 Best Scope &amp; Teardown Secrets](https://medium.com/qapulse-by-sk/pytest-fixture-masterclass-7-best-scope-teardown-secrets-ab38c42eb3d4?source=rss-13a2ac43dc86------2)
-- [Playwright Fixtures and POM: 6 Scalable Architecture Secrets](https://skakarh.medium.com/playwright-fixtures-and-pom-6-scalable-architecture-secrets-d92e72f74012?source=rss-13a2ac43dc86------2)
+- [Playwright Fixtures and POM: 6 Scalable Architecture Secrets](https://medium.com/qapulse-by-sk/playwright-fixtures-and-pom-6-scalable-architecture-secrets-d92e72f74012?source=rss-13a2ac43dc86------2)
 - [Playwright vs Selenium vs Cypress: 5 Best Architecture Secrets](https://medium.com/qapulse-by-sk/playwright-vs-selenium-vs-cypress-5-best-architecture-secrets-a794c22889a5?source=rss-13a2ac43dc86------2)
-- [XCUITest iOS Testing: What it is and Why it Matters](https://skakarh.medium.com/xcuitest-ios-testing-what-it-is-and-why-it-matters-f5762f9f9dcf?source=rss-13a2ac43dc86------2)
+- [XCUITest iOS Testing: What it is and Why it Matters](https://medium.com/qapulse-by-sk/xcuitest-ios-testing-what-it-is-and-why-it-matters-f5762f9f9dcf?source=rss-13a2ac43dc86------2)
 <!-- BLOG-POST-LIST:END -->
 - *(More articles coming soon... Stay tuned!)*
